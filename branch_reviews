@@ -1,0 +1,175 @@
+
+import pandas as pd
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import warnings
+warnings.filterwarnings('ignore')
+from collections import Counter
+import re
+
+# ── Load ─────────────────────────────────────────────────────────────────────
+branch = pd.read_csv('branch_clean.csv')
+master = pd.read_csv('master.csv')
+
+DARK_BG  = '#1a1a2e'; NAVY_MID = '#16213e'
+ORANGE   = '#f5a623'; GREEN    = '#2ecc71'
+RED      = '#e74c3c'; BLUE     = '#3498db'
+WHITE    = '#ffffff'; GRAY     = '#95a5a6'
+
+plt.rcParams.update({
+    'figure.facecolor':DARK_BG, 'axes.facecolor':NAVY_MID,
+    'axes.edgecolor':'#2a2a4a', 'text.color':WHITE,
+    'axes.labelcolor':WHITE, 'xtick.color':WHITE, 'ytick.color':WHITE,
+})
+
+branch_names = {1:'UBC',2:'SFU',3:'Downtown',4:'Main St',5:'Richmond',6:'Surrey',7:'Metrotown'}
+branch['branch_name'] = branch['BranchNo'].map(branch_names)
+
+
+
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
+analyzer = SentimentIntensityAnalyzer()
+
+def sentiment_score(text):
+    """
+    Returns compound sentiment using VADER: +1.0 (very positive) to -1.0 (very negative)
+    VADER handles negation ("not good"), intensifiers ("very bad"),
+    punctuation ("great!!!"), and capitalization ("TERRIBLE")
+    """
+    if not isinstance(text, str) or text.strip() == '':
+        return 0.0
+    return analyzer.polarity_scores(text)['compound']
+
+def sentiment_label(score):
+    # VADER's recommended thresholds (from original paper)
+    if score >= 0.05:  return 'Positive'
+    if score <= -0.05: return 'Negative'
+    return 'Neutral'
+
+# Apply to all reviews
+branch['sentiment_score'] = branch['ReviewText'].apply(sentiment_score)
+branch['sentiment_label'] = branch['sentiment_score'].apply(sentiment_label)
+
+print("Sentiment distribution:")
+print(branch['sentiment_label'].value_counts())
+print(f"\nMean sentiment by branch:")
+print(branch.groupby('branch_name')['sentiment_score'].mean().sort_values())
+
+
+# =============================================================================
+# 2. AGGREGATE SENTIMENT + STARS PER BRANCH
+# =============================================================================
+
+branch_sent = branch.groupby(['BranchNo','branch_name']).agg(
+    avg_stars     = ('Stars',          'mean'),
+    avg_sentiment = ('sentiment_score','mean'),
+    pct_positive  = ('sentiment_label', lambda x: (x=='Positive').mean()*100),
+    pct_negative  = ('sentiment_label', lambda x: (x=='Negative').mean()*100),
+    num_reviews   = ('Stars',          'count'),
+).reset_index()
+
+# Merge HP exit rate
+hp_exit = master[master['is_hp']==1].groupby('branch').apply(
+    lambda x: pd.Series({'hp_total':len(x),'hp_exited':x['is_exited'].sum()})
+).reset_index()
+hp_exit['hp_exit_rate'] = hp_exit['hp_exited']/hp_exit['hp_total']*100
+branch_sent = branch_sent.merge(hp_exit.rename(columns={'branch':'BranchNo'}), on='BranchNo', how='left')
+
+print(f"\nBranch sentiment + HP exit:\n{branch_sent[['branch_name','avg_stars','avg_sentiment','hp_exit_rate']].to_string(index=False)}")
+
+# Correlation
+corr_stars_exit     = branch_sent['avg_stars'].corr(branch_sent['hp_exit_rate'])
+corr_sentiment_exit = branch_sent['avg_sentiment'].corr(branch_sent['hp_exit_rate'])
+print(f"\nCorrelation: stars vs HP exit rate:     {corr_stars_exit:.3f}")
+print(f"Correlation: sentiment vs HP exit rate: {corr_sentiment_exit:.3f}")
+
+
+
+# 3. KEYWORD EXTRACTION — what do negative reviews at high-turnover branches say?
+
+
+# Flag high-turnover branches (above median)
+median_exit = branch_sent['hp_exit_rate'].median()
+high_turnover_branches = branch_sent[branch_sent['hp_exit_rate'] >= median_exit]['BranchNo'].tolist()
+low_turnover_branches  = branch_sent[branch_sent['hp_exit_rate'] <  median_exit]['BranchNo'].tolist()
+
+neg_reviews_high = branch[
+    (branch['BranchNo'].isin(high_turnover_branches)) &
+    (branch['sentiment_label']=='Negative')
+]['ReviewText']
+
+neg_reviews_low  = branch[
+    (branch['BranchNo'].isin(low_turnover_branches)) &
+    (branch['sentiment_label']=='Negative')
+]['ReviewText']
+
+STOPWORDS = {'the','a','an','and','or','but','in','on','at','to','for',
+             'of','with','this','that','was','is','are','were','have',
+             'had','has','it','they','we','you','i','my','our','their',
+             'be','been','being','not','no','so','very','just','more',
+             'also','than','then','from','by','as','its','his','her'}
+
+def top_keywords(texts, n=20):
+    words = []
+    for t in texts:
+        if isinstance(t, str):
+            words += [w for w in re.findall(r'\b[a-z]{4,}\b', t.lower()) if w not in STOPWORDS]
+    return Counter(words).most_common(n)
+
+print(f"\n── Top keywords in NEGATIVE reviews at HIGH-TURNOVER branches ──")
+for word, count in top_keywords(neg_reviews_high):
+    print(f"  {word:20s} {count}")
+
+print(f"\n── Top keywords in NEGATIVE reviews at LOW-TURNOVER branches ──")
+for word, count in top_keywords(neg_reviews_low):
+    print(f"  {word:20s} {count}")
+
+
+
+# 4. CHARTS
+
+
+fig, axes = plt.subplots(1, 2, figsize=(14, 5), facecolor=DARK_BG)
+for ax in axes: ax.set_facecolor(NAVY_MID)
+
+# Left: avg stars per branch
+branch_sorted = branch_sent.sort_values('avg_stars', ascending=False)
+bar_colors = [GREEN if s >= branch_sent['avg_stars'].mean() else RED for s in branch_sorted['avg_stars']]
+bars = axes[0].bar(branch_sorted['branch_name'], branch_sorted['avg_stars'],
+                   color=bar_colors, edgecolor='white', linewidth=0.5, width=0.6)
+axes[0].axhline(branch_sent['avg_stars'].mean(), color=ORANGE, linestyle='--', linewidth=1.5,
+                label=f"Avg: {branch_sent['avg_stars'].mean():.2f}★")
+for bar, val in zip(bars, branch_sorted['avg_stars']):
+    axes[0].text(bar.get_x()+bar.get_width()/2, bar.get_height()+0.02,
+                 f'{val:.2f}★', ha='center', fontsize=10, fontweight='bold', color=WHITE)
+axes[0].set_title('Average Google Review Stars by Branch', fontsize=12, fontweight='bold', color=WHITE)
+axes[0].set_ylabel('Avg Stars', fontsize=10)
+axes[0].set_ylim(1, 5.5)
+axes[0].legend(fontsize=9, facecolor=DARK_BG, labelcolor=WHITE)
+axes[0].grid(axis='y', alpha=0.3)
+
+# Right: sentiment vs HP exit scatter
+sc = axes[1].scatter(branch_sent['hp_exit_rate'], branch_sent['avg_stars'],
+                     c=branch_sent['avg_sentiment'], cmap='RdYlGn', s=200,
+                     edgecolor='white', linewidth=1.5, zorder=5, vmin=-0.3, vmax=0.3)
+for _, row in branch_sent.iterrows():
+    axes[1].annotate(row['branch_name'], (row['hp_exit_rate'], row['avg_stars']),
+                     textcoords='offset points', xytext=(6,4), fontsize=9, color=WHITE)
+plt.colorbar(sc, ax=axes[1], label='Sentiment Score')
+axes[1].set_title('HP Exit Rate vs Customer Satisfaction\n(Higher turnover → worse reviews)',
+                  fontsize=12, fontweight='bold', color=WHITE)
+axes[1].set_xlabel('HP Exit Rate (%)', fontsize=10)
+axes[1].set_ylabel('Avg Google Stars', fontsize=10)
+axes[1].grid(alpha=0.3)
+
+plt.tight_layout()
+plt.savefig('charts/chart16_nlp_branch.png', dpi=180, bbox_inches='tight', facecolor=DARK_BG)
+plt.close()
+
+
+print(f"\n✅ STAGE 3 NLP COMPLETE")
+print(f"   Stars-turnover correlation : {corr_stars_exit:.3f}")
+print(f"   Sentiment-turnover corr    : {corr_sentiment_exit:.3f}")
