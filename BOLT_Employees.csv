@@ -1,0 +1,1068 @@
+EmployeeID,Wage,HiredOn,Branch#,Current status,Position,Role,AvgWorkingHours/Week,ApplicantID
+5764,Minimum,2022-06-13,1,Working,full-time,Manager,48.8,107642
+5997,Minimum,2024-02-26,1,Working,full-time,Manager,50.4,109966
+5454,Competitive,2024-06-20,1,Working,full-time,Manager,49.2,104693
+5557,Competitive,2024-09-04,1,Working,full-time,Manager,52.0,105628
+5923,Minimum,2024-12-07,1,Working,full-time,Manager,48.6,109352
+5572,Competitive,2025-01-13,1,Working,full-time,Manager,49.0,105778
+5155,Minimum,2025-03-07,1,Working,full-time,Manager,49.6,101678
+5711,Premium,2025-04-15,1,Working,full-time,Shift Lead,45.0,107139
+5669,Competitive,2025-05-15,1,Working,part-time,Shift Lead,27.1,106796
+5099,Competitive,2025-05-29,1,Working,full-time,Shift Lead,44.0,101123
+5457,Minimum,2025-07-23,1,Working,part-time,Shift Lead,24.8,104707
+5305,Competitive,2025-08-30,1,Working,full-time,Shift Lead,44.2,103377
+5119,Minimum,2025-10-04,1,Working,part-time,Shift Lead,22.2,101287
+5544,Minimum,2025-10-20,1,Working,full-time,Shift Lead,44.8,105535
+5973,Minimum,2025-11-07,1,Working,part-time,Shift Lead,26.9,109813
+5156,Minimum,2025-11-21,1,Working,full-time,Shift Lead,44.8,101689
+5793,Minimum,2025-12-12,1,Working,part-time,Shift Lead,24.2,107897
+5527,Competitive,2025-12-16,1,Working,full-time,Shift Lead,45.9,105333
+5203,Minimum,2021-08-09,1,Left,part-time,Shift Lead,24.3,102154
+5967,Minimum,2022-11-09,1,Left,full-time,Shift Lead,44.6,109732
+5991,Minimum,2021-07-28,1,Left,part-time,Shift Lead,28.2,109941
+5280,Minimum,2021-12-27,1,Left,full-time,Bartender,39.3,102985
+5607,Competitive,2023-08-30,1,Left,full-time,Bartender,36.5,106132
+5071,Competitive,2022-02-16,1,Left,part-time,Bartender,20.7,100871
+5541,Competitive,2023-08-20,1,Left,full-time,Bartender,41.9,105511
+5150,Minimum,2021-07-15,1,Left,full-time,Bartender,43.8,101619
+5598,Premium,2022-10-30,1,Fired,part-time,Bartender,20.6,105986
+5109,Premium,2023-10-17,1,Left,full-time,Bartender,39.2,101210
+5401,Minimum,2021-07-14,1,Left,full-time,Bartender,42.8,104268
+5420,Minimum,2021-04-05,1,Left,part-time,Bartender,22.7,104425
+5159,Competitive,2021-06-18,1,Left,full-time,Bartender,41.4,101729
+5354,Competitive,2022-04-27,1,Left,full-time,Bartender,38.3,103764
+5091,Minimum,2021-01-23,1,Left,part-time,Bartender,21.1,101058
+5979,Minimum,2024-07-01,1,Left,full-time,Bartender,40.6,109876
+5912,Minimum,2021-09-27,1,Left,full-time,Bartender,40.6,109234
+5622,Competitive,2022-08-07,1,Left,part-time,Bartender,22.0,106270
+5407,Competitive,2023-02-12,1,Left,full-time,Bartender,40.1,104325
+5732,Competitive,2023-11-11,1,Left,full-time,Bartender,41.2,107330
+5019,Premium,2022-03-20,1,Left,part-time,Bartender,21.0,100170
+5942,Minimum,2024-10-24,1,Left,full-time,Bartender,39.5,109489
+5151,Competitive,2022-02-11,1,Left,full-time,Bartender,39.7,101630
+5128,Competitive,2024-03-25,1,Left,part-time,Bartender,20.5,101402
+5072,Minimum,2022-06-30,1,Fired,full-time,Server,38.8,100875
+5136,Competitive,2022-03-25,1,Left,full-time,Server,39.5,101489
+5683,Competitive,2023-01-12,1,Left,full-time,Server,37.6,106897
+5818,Minimum,2024-11-21,1,Left,full-time,Server,40.6,108132
+5227,Minimum,2024-01-02,1,Left,part-time,Server,22.1,102387
+5513,Competitive,2023-04-06,1,Left,part-time,Server,19.5,105229
+5821,Premium,2022-06-08,1,Left,part-time,Server,17.6,108148
+5217,Premium,2025-04-05,1,Left,full-time,Server,38.8,102300
+5841,Competitive,2024-03-06,1,Left,full-time,Server,35.4,108385
+5902,Competitive,2023-01-14,1,Left,full-time,Server,36.2,109109
+5163,Competitive,2023-02-15,1,Left,full-time,Server,39.7,101757
+5906,Premium,2023-06-25,1,Left,part-time,Server,18.4,109146
+5034,Minimum,2021-12-02,1,Left,part-time,Server,19.2,100361
+5316,Minimum,2025-03-30,1,Left,part-time,Server,18.6,103469
+5795,Competitive,2021-10-06,1,Left,full-time,Server,37.7,107921
+5561,Premium,2025-02-09,1,Left,full-time,Server,38.3,105654
+5511,Competitive,2024-11-25,1,Left,full-time,Server,38.4,105209
+5447,Minimum,2025-01-28,1,Left,full-time,Server,40.2,104641
+5162,Competitive,2025-03-11,1,Left,part-time,Server,19.6,101753
+5688,Competitive,2024-04-25,1,Left,part-time,Server,20.4,106963
+5384,Minimum,2024-07-13,1,Left,part-time,Server,20.6,104137
+5796,Competitive,2021-04-04,1,Left,full-time,Server,36.4,107934
+6002,Minimum,2025-01-06,1,Left,full-time,Server,39.6,109976
+5029,Competitive,2021-01-02,1,Fired,full-time,Server,37.6,100304
+5063,Minimum,2024-11-20,1,Fired,full-time,Server,38.6,100778
+6059,Competitive,2025-04-30,1,Left,part-time,Server,22.5,110455
+5223,Premium,2022-09-16,1,Left,part-time,Server,18.9,102349
+5990,Competitive,2022-08-14,1,Left,part-time,Server,20.5,109934
+5820,Premium,2022-09-14,1,Left,full-time,Server,38.5,108138
+5262,Competitive,2023-10-01,1,Left,full-time,Server,39.2,102798
+5888,Competitive,2025-01-10,1,Left,full-time,Server,39.6,108923
+6025,Minimum,2024-08-14,1,Left,full-time,Server,41.5,110151
+5664,Competitive,2021-03-13,1,Left,part-time,Server,17.2,106723
+5221,Competitive,2023-03-25,1,Left,part-time,Server,19.8,102328
+5050,Minimum,2023-04-15,1,Left,part-time,Server,19.7,100625
+5939,Minimum,2022-05-21,1,Left,full-time,Server,35.7,109466
+5287,Competitive,2022-05-12,1,Left,full-time,Server,37.4,103077
+5812,Premium,2022-07-31,1,Left,full-time,Server,37.5,108090
+5769,Competitive,2021-02-18,1,Fired,full-time,Server,37.5,107705
+5512,Competitive,2025-01-23,1,Left,part-time,Server,15.9,105227
+5220,Competitive,2024-04-21,1,Left,part-time,Server,20.7,102317
+6023,Competitive,2021-11-04,1,Left,part-time,Server,20.0,110133
+5698,Minimum,2022-07-02,1,Left,full-time,Server,37.3,107024
+5293,Minimum,2023-11-13,1,Left,full-time,Server,36.5,103197
+5240,Minimum,2023-11-13,1,Left,full-time,Server,39.3,102538
+5563,Competitive,2024-11-12,1,Fired,full-time,Server,39.3,105674
+5115,Premium,2024-10-29,1,Left,part-time,Server,23.1,101248
+5835,Competitive,2023-06-13,1,Fired,part-time,Server,20.2,108352
+5432,Premium,2023-11-23,1,Left,part-time,Server,20.9,104516
+5508,Competitive,2024-09-29,1,Left,full-time,Server Assistant,36.0,105204
+5982,Competitive,2022-04-03,1,Left,full-time,Server Assistant,33.3,109892
+5037,Competitive,2022-07-14,1,Left,full-time,Server Assistant,35.2,100398
+5651,Competitive,2024-02-26,1,Left,part-time,Server Assistant,18.0,106570
+5530,Minimum,2022-01-09,1,Left,part-time,Server Assistant,16.5,105353
+5349,Competitive,2025-09-17,1,Left,part-time,Server Assistant,17.3,103722
+5829,Competitive,2021-01-20,1,Left,full-time,Server Assistant,34.4,108217
+5201,Competitive,2025-08-14,1,Fired,full-time,Server Assistant,34.7,102150
+5265,Competitive,2021-09-17,1,Left,full-time,Server Assistant,34.3,102843
+6050,Competitive,2021-02-27,1,Left,part-time,Server Assistant,18.5,110347
+5355,Competitive,2025-08-07,1,Left,part-time,Server Assistant,18.1,103765
+5376,Competitive,2022-08-25,1,Left,part-time,Server Assistant,17.5,104035
+5404,Premium,2024-04-08,1,Left,full-time,Server Assistant,35.9,104284
+5806,Competitive,2022-02-20,1,Left,full-time,Server Assistant,32.2,108014
+5596,Minimum,2021-06-17,1,Left,full-time,Server Assistant,34.0,105969
+5064,Competitive,2021-04-28,1,Left,part-time,Server Assistant,18.4,100785
+5627,Competitive,2025-04-20,1,Left,part-time,Server Assistant,19.2,106325
+5393,Minimum,2024-10-16,1,Left,part-time,Server Assistant,16.7,104194
+5236,Competitive,2021-05-25,1,Left,full-time,Server Assistant,35.0,102522
+5803,Minimum,2025-08-03,1,Left,full-time,Server Assistant,34.2,107999
+5886,Competitive,2024-12-02,1,Left,full-time,Server Assistant,32.8,108920
+5894,Minimum,2023-03-20,1,Left,part-time,Server Assistant,19.8,109038
+5385,Minimum,2024-05-23,1,Fired,part-time,Server Assistant,20.1,104138
+5567,Premium,2023-01-03,1,Left,part-time,Server Assistant,18.2,105699
+5761,Competitive,2024-11-25,1,Left,full-time,Server Assistant,35.4,107608
+5440,Minimum,2025-05-09,1,Fired,full-time,Server Assistant,33.3,104588
+5690,Competitive,2023-09-20,1,Left,full-time,Server Assistant,35.9,106978
+5002,Competitive,2022-05-12,1,Left,part-time,Server Assistant,18.7,100017
+5763,Premium,2024-11-07,1,Left,part-time,Server Assistant,19.8,107639
+5026,Competitive,2024-04-25,1,Left,part-time,Server Assistant,17.0,100263
+5612,Competitive,2022-12-20,1,Left,full-time,Server Assistant,36.6,106179
+5715,Competitive,2023-01-09,1,Fired,full-time,Server Assistant,34.2,107185
+5242,Competitive,2022-08-22,1,Left,full-time,Server Assistant,36.0,102564
+5719,Competitive,2024-07-23,1,Fired,part-time,Server Assistant,16.7,107210
+6014,Minimum,2021-01-04,1,Fired,part-time,Server Assistant,18.3,110046
+5855,Competitive,2021-09-16,1,Fired,part-time,Server Assistant,19.0,108491
+5158,Competitive,2022-10-08,1,Left,full-time,Server Assistant,36.3,101716
+5487,Minimum,2025-11-29,1,Left,full-time,Server Assistant,32.9,105051
+5485,Minimum,2022-06-20,1,Left,full-time,Server Assistant,33.7,105004
+5297,Competitive,2021-09-06,1,Fired,part-time,Server Assistant,17.9,103220
+5699,Premium,2023-03-07,1,Left,part-time,Server Assistant,18.2,107038
+5718,Competitive,2023-10-09,1,Left,part-time,Server Assistant,17.0,107201
+5709,Competitive,2021-06-30,1,Left,full-time,Server Assistant,36.6,107102
+5823,Premium,2023-09-01,1,Left,full-time,Server Assistant,35.5,108173
+5078,Competitive,2023-08-15,1,Left,full-time,Server Assistant,36.4,100914
+5230,Competitive,2024-10-25,1,Fired,part-time,Server Assistant,18.5,102447
+5951,Competitive,2023-07-06,1,Left,part-time,Server Assistant,19.1,109548
+6039,Competitive,2024-01-22,1,Left,part-time,Server Assistant,18.9,110259
+5284,Competitive,2023-04-29,1,Left,full-time,Host,30.4,103029
+5787,Minimum,2025-03-09,1,Left,part-time,Host,14.6,107851
+5703,Minimum,2025-09-16,1,Left,full-time,Host,32.1,107071
+5269,Premium,2021-05-22,1,Left,part-time,Host,13.8,102863
+5521,Minimum,2024-12-27,1,Left,full-time,Host,30.8,105296
+5241,Minimum,2023-05-14,1,Left,part-time,Host,14.8,102548
+5425,Minimum,2021-11-22,1,Left,full-time,Host,31.6,104480
+5054,Competitive,2022-11-10,1,Left,part-time,Host,14.9,100664
+5778,Minimum,2025-11-26,1,Left,full-time,Host,33.4,107799
+5341,Competitive,2023-09-27,1,Left,part-time,Host,14.8,103693
+5774,Minimum,2025-03-25,1,Left,full-time,Host,30.9,107774
+5086,Premium,2021-10-31,1,Fired,part-time,Host,14.6,100981
+5324,Competitive,2022-06-30,1,Left,full-time,Host,32.0,103545
+5753,Minimum,2024-10-27,1,Left,part-time,Host,15.3,107530
+5388,Minimum,2022-10-14,2,Working,full-time,Manager,52.1,104157
+5372,Competitive,2024-03-03,2,Working,full-time,Manager,47.8,104006
+5403,Competitive,2024-06-24,2,Working,full-time,Manager,50.0,104277
+5929,Competitive,2024-10-01,2,Working,full-time,Manager,49.8,109402
+5905,Minimum,2024-12-16,2,Working,full-time,Manager,47.8,109140
+5137,Minimum,2025-02-02,2,Working,full-time,Manager,46.5,101506
+5264,Minimum,2025-03-09,2,Working,full-time,Manager,52.5,102822
+5118,Competitive,2025-04-29,2,Working,full-time,Shift Lead,43.7,101265
+5747,Competitive,2025-05-15,2,Working,part-time,Shift Lead,25.1,107463
+5285,Minimum,2025-05-29,2,Working,full-time,Shift Lead,45.5,103034
+5533,Minimum,2025-07-25,2,Working,part-time,Shift Lead,24.4,105377
+6040,Competitive,2025-08-31,2,Working,full-time,Shift Lead,45.1,110260
+6029,Minimum,2025-10-06,2,Working,part-time,Shift Lead,26.6,110193
+5174,Minimum,2025-10-22,2,Working,full-time,Shift Lead,45.2,101889
+5413,Competitive,2025-11-09,2,Working,part-time,Shift Lead,23.1,104374
+5025,Minimum,2025-11-24,2,Working,full-time,Shift Lead,44.1,100231
+5197,Minimum,2025-12-13,2,Working,part-time,Shift Lead,25.8,102107
+5226,Premium,2025-12-23,2,Working,full-time,Shift Lead,45.3,102376
+5946,Minimum,2021-02-03,2,Left,part-time,Shift Lead,27.6,109512
+5271,Minimum,2022-04-23,2,Left,full-time,Shift Lead,41.8,102901
+5652,Minimum,2021-08-30,2,Left,part-time,Shift Lead,25.1,106578
+5397,Competitive,2023-04-15,2,Fired,full-time,Bartender,41.0,104255
+5668,Minimum,2022-06-04,2,Left,full-time,Bartender,41.5,106781
+5800,Competitive,2023-08-12,2,Left,part-time,Bartender,22.9,107974
+6060,Minimum,2024-05-07,2,Left,full-time,Bartender,40.2,110457
+5094,Premium,2021-04-21,2,Left,full-time,Bartender,41.1,101090
+5559,Minimum,2021-02-06,2,Left,part-time,Bartender,20.1,105642
+5636,Minimum,2021-03-17,2,Left,full-time,Bartender,39.5,106405
+5955,Premium,2024-05-26,2,Left,full-time,Bartender,39.5,109586
+5092,Competitive,2024-08-13,2,Left,part-time,Bartender,20.6,101069
+5464,Minimum,2023-10-28,2,Left,full-time,Bartender,38.7,104789
+5789,Competitive,2021-01-16,2,Left,full-time,Bartender,39.0,107857
+5187,Competitive,2024-01-19,2,Left,part-time,Bartender,23.6,102047
+5975,Competitive,2022-04-11,2,Left,full-time,Bartender,41.0,109855
+5144,Minimum,2024-03-03,2,Left,full-time,Bartender,41.5,101565
+5881,Competitive,2024-08-31,2,Left,part-time,Bartender,22.5,108882
+5516,Competitive,2024-08-28,2,Left,full-time,Bartender,40.4,105252
+6052,Competitive,2024-08-01,2,Left,full-time,Bartender,41.5,110412
+5657,Competitive,2022-01-01,2,Left,part-time,Bartender,22.6,106642
+5331,Competitive,2021-01-27,2,Left,full-time,Bartender,39.0,103606
+5122,Minimum,2021-12-28,2,Left,full-time,Bartender,39.1,101311
+5837,Premium,2022-09-16,2,Left,part-time,Bartender,22.4,108365
+5771,Minimum,2024-06-05,2,Left,full-time,Server,37.2,107750
+5378,Competitive,2025-01-03,2,Left,full-time,Server,37.0,104055
+5762,Competitive,2024-09-14,2,Left,full-time,Server,36.2,107616
+5277,Minimum,2021-01-03,2,Left,full-time,Server,37.2,102943
+5892,Minimum,2022-09-26,2,Left,part-time,Server,21.0,108969
+5254,Minimum,2022-12-31,2,Left,part-time,Server,20.3,102712
+5009,Minimum,2021-10-30,2,Left,part-time,Server,18.7,100074
+5686,Competitive,2023-10-16,2,Left,full-time,Server,35.4,106953
+5142,Premium,2024-03-10,2,Left,full-time,Server,38.8,101562
+5653,Premium,2024-05-26,2,Left,full-time,Server,39.5,106580
+5022,Minimum,2025-01-18,2,Left,full-time,Server,38.8,100191
+5539,Competitive,2024-06-25,2,Left,part-time,Server,21.6,105466
+5613,Competitive,2021-11-03,2,Left,part-time,Server,19.2,106181
+6035,Premium,2021-12-30,2,Left,part-time,Server,18.2,110228
+6022,Competitive,2023-09-05,2,Left,full-time,Server,38.5,110103
+5623,Premium,2023-10-01,2,Left,full-time,Server,38.5,106302
+5961,Minimum,2021-06-05,2,Left,full-time,Server,37.9,109662
+5863,Premium,2021-01-04,2,Left,full-time,Server,34.8,108593
+6065,Competitive,2022-02-03,2,Left,part-time,Server,18.9,110480
+5340,Minimum,2025-05-06,2,Fired,part-time,Server,18.9,103683
+5941,Competitive,2023-08-10,2,Left,part-time,Server,19.4,109477
+5379,Minimum,2023-09-13,2,Left,full-time,Server,38.5,104070
+5811,Competitive,2025-02-20,2,Left,full-time,Server,40.7,108087
+5478,Minimum,2024-02-28,2,Fired,full-time,Server,39.1,104912
+5954,Competitive,2025-05-12,2,Left,full-time,Server,39.3,109575
+5568,Minimum,2021-11-04,2,Left,part-time,Server,21.3,105726
+6007,Minimum,2021-03-02,2,Left,part-time,Server,21.1,110009
+5628,Premium,2025-01-28,2,Left,part-time,Server,18.2,106328
+5571,Premium,2022-05-02,2,Left,full-time,Server,37.8,105761
+5121,Minimum,2022-03-04,2,Left,full-time,Server,40.9,101295
+5844,Competitive,2025-07-29,2,Left,full-time,Server,36.0,108410
+5498,Minimum,2022-11-05,2,Left,full-time,Server,37.7,105123
+5346,Premium,2024-04-08,2,Fired,part-time,Server,19.6,103716
+5077,Competitive,2022-01-23,2,Left,part-time,Server,20.0,100913
+5866,Minimum,2021-07-02,2,Left,part-time,Server,21.9,108675
+5499,Competitive,2023-01-21,2,Left,full-time,Server,34.5,105127
+5649,Minimum,2022-03-26,2,Left,full-time,Server,37.8,106555
+5689,Competitive,2024-11-06,2,Left,full-time,Server,39.6,106977
+5517,Competitive,2023-11-11,2,Fired,full-time,Server,35.8,105256
+5164,Premium,2021-10-02,2,Left,part-time,Server,19.9,101772
+5890,Competitive,2025-06-07,2,Left,part-time,Server,22.2,108954
+5310,Minimum,2021-12-23,2,Left,part-time,Server,18.1,103403
+5792,Competitive,2023-03-14,2,Left,full-time,Server,40.3,107894
+5781,Competitive,2023-05-04,2,Fired,full-time,Server,36.2,107829
+5177,Competitive,2023-03-09,2,Left,full-time,Server,36.1,101953
+6036,Competitive,2023-03-10,2,Left,full-time,Server,37.4,110229
+5444,Minimum,2021-06-10,2,Left,part-time,Server,19.3,104617
+5671,Minimum,2025-02-23,2,Left,part-time,Server,20.7,106803
+5502,Premium,2023-06-28,2,Left,part-time,Server,20.5,105140
+5802,Premium,2023-09-25,2,Left,full-time,Server Assistant,37.0,107993
+5402,Competitive,2021-01-31,2,Left,full-time,Server Assistant,32.7,104270
+5805,Competitive,2023-08-04,2,Left,full-time,Server Assistant,33.1,108004
+5387,Competitive,2023-11-24,2,Left,part-time,Server Assistant,18.1,104151
+5334,Minimum,2024-08-05,2,Left,part-time,Server Assistant,21.2,103648
+5978,Competitive,2025-07-12,2,Left,part-time,Server Assistant,21.6,109875
+6006,Competitive,2024-01-25,2,Fired,full-time,Server Assistant,35.8,109997
+5898,Competitive,2024-11-30,2,Left,full-time,Server Assistant,35.3,109070
+5213,Minimum,2024-01-08,2,Left,full-time,Server Assistant,33.4,102274
+5790,Competitive,2025-06-28,2,Left,part-time,Server Assistant,16.2,107864
+5336,Competitive,2021-10-26,2,Left,part-time,Server Assistant,18.3,103656
+5570,Competitive,2023-11-12,2,Left,part-time,Server Assistant,17.4,105752
+5999,Minimum,2025-08-16,2,Fired,full-time,Server Assistant,33.5,109970
+5152,Competitive,2024-06-11,2,Left,full-time,Server Assistant,33.7,101656
+5839,Minimum,2024-06-02,2,Left,full-time,Server Assistant,35.4,108371
+5944,Competitive,2025-01-26,2,Left,part-time,Server Assistant,18.3,109506
+5936,Minimum,2025-07-25,2,Fired,part-time,Server Assistant,15.7,109452
+5104,Minimum,2024-07-07,2,Left,part-time,Server Assistant,16.5,101182
+5430,Competitive,2021-06-02,2,Left,full-time,Server Assistant,36.0,104504
+5546,Competitive,2024-04-02,2,Fired,full-time,Server Assistant,33.0,105551
+5383,Competitive,2022-06-16,2,Left,full-time,Server Assistant,33.4,104134
+5423,Minimum,2024-09-11,2,Left,part-time,Server Assistant,19.0,104458
+5493,Competitive,2025-06-17,2,Fired,part-time,Server Assistant,17.3,105082
+5728,Premium,2023-11-01,2,Left,part-time,Server Assistant,15.7,107281
+5824,Minimum,2024-09-12,2,Fired,full-time,Server Assistant,33.9,108176
+5048,Minimum,2021-03-19,2,Left,full-time,Server Assistant,34.5,100543
+5880,Premium,2025-08-21,2,Left,full-time,Server Assistant,35.2,108849
+5574,Competitive,2025-04-04,2,Left,part-time,Server Assistant,19.1,105782
+5055,Competitive,2025-08-27,2,Fired,part-time,Server Assistant,16.1,100667
+5455,Minimum,2023-09-08,2,Left,part-time,Server Assistant,18.9,104696
+5924,Minimum,2024-11-22,2,Left,full-time,Server Assistant,34.4,109376
+5576,Minimum,2024-03-03,2,Left,full-time,Server Assistant,34.6,105799
+5347,Competitive,2025-05-21,2,Left,full-time,Server Assistant,34.5,103718
+5332,Minimum,2024-07-07,2,Fired,part-time,Server Assistant,16.2,103631
+5149,Minimum,2023-02-28,2,Fired,part-time,Server Assistant,18.1,101608
+5467,Minimum,2022-03-13,2,Left,part-time,Server Assistant,18.2,104804
+5358,Minimum,2024-04-18,2,Left,full-time,Server Assistant,34.4,103789
+5635,Competitive,2024-10-07,2,Left,full-time,Server Assistant,34.8,106399
+5722,Premium,2023-12-18,2,Left,full-time,Server Assistant,35.4,107235
+6028,Competitive,2021-03-25,2,Left,part-time,Server Assistant,15.2,110181
+5931,Competitive,2021-01-08,2,Left,part-time,Server Assistant,17.3,109429
+5735,Minimum,2021-01-02,2,Left,part-time,Server Assistant,18.6,107362
+5610,Premium,2025-06-21,2,Left,full-time,Server Assistant,36.0,106159
+5734,Minimum,2022-12-26,2,Left,full-time,Server Assistant,36.0,107357
+5877,Premium,2022-10-03,2,Left,full-time,Server Assistant,35.9,108820
+5429,Premium,2023-10-27,2,Left,part-time,Server Assistant,19.6,104498
+5663,Minimum,2024-06-20,2,Left,part-time,Server Assistant,17.8,106722
+5746,Competitive,2025-11-13,2,Left,part-time,Server Assistant,17.8,107452
+5817,Competitive,2021-09-19,2,Left,full-time,Host,31.6,108129
+5117,Minimum,2022-12-23,2,Left,part-time,Host,14.9,101261
+5016,Competitive,2021-05-30,2,Left,full-time,Host,30.7,100147
+5497,Competitive,2022-01-17,2,Left,part-time,Host,14.4,105108
+5860,Premium,2022-04-04,2,Left,full-time,Host,32.7,108546
+5893,Minimum,2025-07-26,2,Left,part-time,Host,16.0,109013
+5431,Minimum,2021-07-24,2,Left,full-time,Host,32.9,104513
+5611,Minimum,2023-10-29,2,Left,part-time,Host,14.4,106162
+5560,Minimum,2023-03-30,2,Left,full-time,Host,31.8,105653
+5335,Minimum,2025-05-28,2,Left,part-time,Host,14.3,103653
+5232,Minimum,2022-12-27,2,Fired,full-time,Host,32.6,102475
+5076,Competitive,2024-09-22,2,Left,part-time,Host,15.5,100905
+5390,Competitive,2025-11-26,2,Left,full-time,Host,32.5,104169
+5815,Competitive,2021-02-21,2,Left,part-time,Host,13.2,108122
+5362,Minimum,2023-04-11,3,Working,full-time,Manager,50.1,103830
+5249,Minimum,2024-03-14,3,Working,full-time,Manager,51.3,102631
+5237,Minimum,2024-07-07,3,Working,full-time,Manager,49.1,102523
+5051,Competitive,2024-10-03,3,Working,full-time,Manager,50.0,100639
+5044,Minimum,2024-12-16,3,Working,full-time,Manager,51.3,100506
+6056,Premium,2025-02-13,3,Working,full-time,Manager,50.2,110441
+5199,Premium,2025-03-23,3,Working,full-time,Manager,49.3,102120
+5995,Competitive,2025-05-02,3,Working,full-time,Shift Lead,46.4,109953
+5528,Minimum,2025-05-20,3,Working,part-time,Shift Lead,25.1,105338
+5980,Minimum,2025-06-05,3,Working,full-time,Shift Lead,44.1,109878
+5439,Competitive,2025-08-02,3,Working,part-time,Shift Lead,26.0,104573
+5569,Minimum,2025-09-02,3,Working,full-time,Shift Lead,46.4,105734
+5061,Minimum,2025-10-11,3,Working,part-time,Shift Lead,23.4,100753
+5717,Minimum,2025-10-23,3,Working,full-time,Shift Lead,44.0,107196
+5614,Premium,2025-11-15,3,Working,part-time,Shift Lead,26.2,106190
+5045,Competitive,2025-11-28,3,Working,full-time,Shift Lead,47.1,100517
+5885,Competitive,2025-12-14,3,Working,part-time,Shift Lead,23.9,108918
+5210,Competitive,2025-12-25,3,Working,full-time,Shift Lead,45.9,102248
+5930,Competitive,2022-10-17,3,Left,part-time,Shift Lead,26.5,109418
+5178,Premium,2022-12-30,3,Left,full-time,Shift Lead,43.6,101954
+5631,Minimum,2023-09-03,3,Left,part-time,Shift Lead,26.7,106364
+5833,Competitive,2023-04-20,3,Left,full-time,Bartender,39.0,108257
+5468,Competitive,2023-01-31,3,Left,full-time,Bartender,41.9,104808
+5043,Minimum,2022-09-02,3,Left,part-time,Bartender,23.2,100498
+6026,Competitive,2022-05-09,3,Left,full-time,Bartender,40.3,110172
+5577,Premium,2024-03-05,3,Left,full-time,Bartender,41.8,105809
+5308,Competitive,2021-06-05,3,Left,part-time,Bartender,22.3,103388
+5225,Competitive,2023-11-21,3,Left,full-time,Bartender,39.8,102361
+5496,Competitive,2023-02-22,3,Fired,full-time,Bartender,39.3,105104
+5882,Competitive,2023-11-03,3,Left,part-time,Bartender,24.3,108891
+5836,Competitive,2021-12-27,3,Left,full-time,Bartender,38.8,108358
+5035,Minimum,2021-07-07,3,Left,full-time,Bartender,41.6,100367
+5637,Competitive,2022-04-05,3,Left,part-time,Bartender,23.7,106410
+5361,Premium,2022-07-05,3,Left,full-time,Bartender,36.5,103811
+5736,Premium,2022-03-06,3,Left,full-time,Bartender,41.4,107373
+5339,Competitive,2023-07-26,3,Left,part-time,Bartender,22.3,103680
+5592,Competitive,2024-06-26,3,Left,full-time,Bartender,40.6,105928
+5381,Competitive,2024-08-30,3,Left,full-time,Bartender,40.2,104127
+5377,Competitive,2022-03-15,3,Left,part-time,Bartender,23.3,104043
+5985,Minimum,2024-06-05,3,Left,full-time,Bartender,40.5,109910
+5847,Competitive,2021-09-22,3,Left,full-time,Bartender,38.6,108440
+5662,Competitive,2023-04-12,3,Left,part-time,Bartender,22.2,106697
+5211,Premium,2024-05-25,3,Left,full-time,Server,37.9,102252
+5739,Competitive,2021-03-11,3,Left,full-time,Server,38.8,107378
+5433,Minimum,2024-07-23,3,Left,full-time,Server,38.2,104525
+5451,Minimum,2024-05-05,3,Left,full-time,Server,38.4,104670
+5250,Premium,2021-11-19,3,Left,part-time,Server,20.1,102656
+5342,Minimum,2025-01-21,3,Left,part-time,Server,20.5,103694
+5140,Minimum,2023-10-24,3,Left,part-time,Server,20.4,101530
+5843,Competitive,2024-12-25,3,Left,full-time,Server,38.6,108406
+5922,Minimum,2021-04-02,3,Left,full-time,Server,38.7,109326
+5087,Competitive,2022-11-09,3,Left,full-time,Server,36.6,101000
+5952,Competitive,2023-04-20,3,Left,full-time,Server,37.3,109563
+5526,Minimum,2023-02-05,3,Left,part-time,Server,19.5,105328
+5391,Competitive,2024-07-12,3,Left,part-time,Server,19.1,104186
+5461,Competitive,2022-10-23,3,Left,part-time,Server,20.3,104746
+5914,Competitive,2025-02-19,3,Left,full-time,Server,37.7,109246
+5302,Minimum,2025-03-27,3,Left,full-time,Server,38.3,103341
+5780,Competitive,2021-02-02,3,Left,full-time,Server,36.4,107815
+5974,Competitive,2022-05-31,3,Left,full-time,Server,37.3,109827
+5181,Minimum,2022-07-07,3,Left,part-time,Server,21.5,101987
+5450,Minimum,2024-06-25,3,Fired,part-time,Server,18.7,104660
+5857,Competitive,2024-09-07,3,Fired,part-time,Server,21.0,108498
+5486,Competitive,2022-12-31,3,Left,full-time,Server,40.4,105020
+5587,Competitive,2021-08-26,3,Left,full-time,Server,37.3,105870
+5488,Competitive,2021-01-10,3,Left,full-time,Server,37.4,105055
+5695,Premium,2022-02-23,3,Left,full-time,Server,36.7,107010
+5070,Premium,2024-12-11,3,Left,part-time,Server,19.1,100860
+5313,Minimum,2023-07-30,3,Fired,part-time,Server,19.4,103448
+5274,Minimum,2021-08-23,3,Left,part-time,Server,18.4,102921
+5258,Minimum,2023-11-12,3,Left,full-time,Server,35.2,102763
+5996,Competitive,2024-06-13,3,Left,full-time,Server,37.1,109961
+5807,Minimum,2024-02-23,3,Left,full-time,Server,37.9,108021
+5953,Competitive,2025-05-23,3,Left,full-time,Server,40.4,109573
+5925,Minimum,2022-01-19,3,Left,part-time,Server,19.2,109385
+5380,Competitive,2022-04-04,3,Fired,part-time,Server,20.3,104109
+5370,Minimum,2024-09-22,3,Fired,part-time,Server,19.3,103946
+5992,Competitive,2021-06-22,3,Fired,full-time,Server,38.1,109942
+5825,Competitive,2024-10-25,3,Left,full-time,Server,38.3,108178
+6044,Minimum,2024-08-15,3,Fired,full-time,Server,37.7,110293
+5903,Minimum,2022-08-20,3,Left,full-time,Server,39.4,109113
+6048,Competitive,2022-03-18,3,Left,part-time,Server,20.9,110326
+5031,Competitive,2022-04-24,3,Left,part-time,Server,18.0,100318
+5554,Minimum,2025-05-04,3,Left,part-time,Server,20.1,105607
+5013,Competitive,2023-06-24,3,Fired,full-time,Server,37.8,100097
+5848,Premium,2024-10-04,3,Left,full-time,Server,38.3,108445
+5218,Minimum,2023-03-24,3,Left,full-time,Server,39.3,102315
+5040,Minimum,2021-06-24,3,Left,full-time,Server,38.5,100447
+5658,Minimum,2024-04-06,3,Left,part-time,Server,23.8,106652
+5520,Minimum,2022-08-09,3,Left,part-time,Server,20.8,105270
+5677,Premium,2023-12-07,3,Left,part-time,Server,19.1,106867
+5141,Minimum,2022-09-23,3,Left,full-time,Server Assistant,36.5,101540
+5940,Competitive,2021-09-17,3,Left,full-time,Server Assistant,33.7,109471
+5116,Minimum,2022-11-30,3,Left,full-time,Server Assistant,34.5,101251
+5312,Minimum,2023-12-07,3,Left,part-time,Server Assistant,17.9,103435
+5239,Minimum,2021-12-13,3,Left,part-time,Server Assistant,17.3,102534
+6013,Minimum,2023-06-02,3,Left,part-time,Server Assistant,19.3,110039
+5861,Competitive,2025-07-14,3,Left,full-time,Server Assistant,34.1,108551
+5135,Minimum,2024-06-25,3,Left,full-time,Server Assistant,36.7,101481
+5473,Premium,2023-07-05,3,Left,full-time,Server Assistant,35.9,104854
+5586,Competitive,2022-03-23,3,Fired,part-time,Server Assistant,19.2,105865
+5590,Competitive,2021-07-14,3,Left,part-time,Server Assistant,20.9,105905
+6010,Competitive,2025-01-14,3,Left,part-time,Server Assistant,18.1,110021
+5273,Competitive,2022-11-08,3,Left,full-time,Server Assistant,34.0,102912
+5712,Premium,2024-11-21,3,Left,full-time,Server Assistant,31.7,107158
+5908,Competitive,2022-01-19,3,Left,full-time,Server Assistant,35.3,109177
+6053,Minimum,2024-02-03,3,Left,part-time,Server Assistant,19.3,110416
+5437,Premium,2023-05-18,3,Fired,part-time,Server Assistant,17.5,104559
+5921,Premium,2025-03-07,3,Left,part-time,Server Assistant,18.5,109321
+5476,Premium,2022-02-01,3,Fired,full-time,Server Assistant,33.3,104873
+5927,Premium,2022-01-10,3,Left,full-time,Server Assistant,36.3,109399
+5720,Minimum,2023-04-21,3,Fired,full-time,Server Assistant,33.1,107219
+5067,Minimum,2022-01-03,3,Left,part-time,Server Assistant,17.4,100832
+5307,Competitive,2023-02-24,3,Left,part-time,Server Assistant,18.0,103387
+5036,Minimum,2023-08-14,3,Left,part-time,Server Assistant,17.8,100391
+5701,Premium,2025-07-18,3,Left,full-time,Server Assistant,36.7,107048
+5724,Competitive,2021-01-08,3,Left,full-time,Server Assistant,32.8,107251
+5721,Minimum,2025-01-28,3,Left,full-time,Server Assistant,36.4,107232
+5328,Minimum,2022-11-05,3,Left,part-time,Server Assistant,18.6,103580
+5791,Minimum,2022-06-10,3,Left,part-time,Server Assistant,18.4,107866
+5470,Minimum,2022-12-26,3,Left,part-time,Server Assistant,22.0,104829
+5675,Competitive,2024-11-24,3,Left,full-time,Server Assistant,33.7,106856
+5095,Minimum,2024-03-24,3,Left,full-time,Server Assistant,35.2,101093
+5687,Premium,2023-11-25,3,Left,full-time,Server Assistant,36.0,106955
+5969,Competitive,2024-06-14,3,Left,part-time,Server Assistant,17.4,109734
+5550,Competitive,2024-04-12,3,Fired,part-time,Server Assistant,17.7,105583
+5299,Premium,2021-10-09,3,Left,part-time,Server Assistant,16.8,103300
+5057,Competitive,2024-02-03,3,Left,full-time,Server Assistant,38.2,100721
+5725,Competitive,2022-08-09,3,Left,full-time,Server Assistant,35.9,107265
+5315,Competitive,2024-02-02,3,Left,full-time,Server Assistant,35.5,103465
+5870,Minimum,2023-07-13,3,Left,part-time,Server Assistant,16.2,108720
+5208,Competitive,2025-08-13,3,Left,part-time,Server Assistant,18.5,102208
+5096,Competitive,2024-03-16,3,Left,part-time,Server Assistant,18.5,101098
+5474,Minimum,2024-05-12,3,Left,full-time,Server Assistant,31.8,104862
+5656,Competitive,2022-02-27,3,Left,full-time,Server Assistant,36.9,106632
+5729,Minimum,2021-04-16,3,Left,full-time,Server Assistant,35.1,107294
+5667,Competitive,2021-07-07,3,Left,part-time,Server Assistant,18.9,106774
+6000,Competitive,2022-03-02,3,Left,part-time,Server Assistant,18.9,109973
+5436,Competitive,2024-09-15,3,Fired,part-time,Server Assistant,17.6,104552
+5188,Competitive,2023-10-16,3,Left,full-time,Host,33.8,102051
+5268,Premium,2023-10-19,3,Left,part-time,Host,15.0,102861
+5618,Competitive,2024-12-30,3,Left,full-time,Host,32.6,106233
+5852,Competitive,2025-10-25,3,Fired,part-time,Host,16.0,108459
+5595,Premium,2022-06-26,3,Fired,full-time,Host,31.3,105952
+5594,Competitive,2022-11-28,3,Left,part-time,Host,15.4,105943
+5634,Competitive,2023-12-21,3,Left,full-time,Host,32.8,106396
+5406,Competitive,2023-10-28,3,Left,part-time,Host,13.8,104310
+5678,Minimum,2021-01-20,3,Left,full-time,Host,33.8,106873
+5318,Minimum,2022-02-24,3,Left,part-time,Host,17.2,103491
+6017,Competitive,2021-03-12,3,Left,full-time,Host,29.2,110072
+5028,Competitive,2023-10-31,3,Left,part-time,Host,13.4,100290
+5410,Competitive,2021-05-31,3,Left,full-time,Host,31.7,104354
+5845,Competitive,2023-08-27,3,Left,part-time,Host,13.8,108425
+6019,Minimum,2023-10-16,4,Working,full-time,Manager,47.9,110087
+5853,Minimum,2024-04-11,4,Working,full-time,Manager,49.1,108464
+5655,Minimum,2024-07-31,4,Working,full-time,Manager,50.2,106629
+5326,Minimum,2024-10-10,4,Working,full-time,Manager,49.7,103561
+5744,Minimum,2024-12-18,4,Working,full-time,Manager,50.6,107446
+5489,Competitive,2025-02-15,4,Working,full-time,Manager,51.2,105058
+5160,Competitive,2025-03-27,4,Working,full-time,Manager,49.9,101736
+5680,Minimum,2025-05-07,4,Working,full-time,Shift Lead,45.0,106876
+5998,Minimum,2025-05-23,4,Working,part-time,Shift Lead,25.0,109967
+6030,Minimum,2025-06-20,4,Working,full-time,Shift Lead,45.9,110206
+5278,Minimum,2025-08-07,4,Working,part-time,Shift Lead,25.6,102956
+5352,Competitive,2025-09-03,4,Working,full-time,Shift Lead,44.8,103745
+5231,Minimum,2025-10-12,4,Working,part-time,Shift Lead,24.1,102470
+5107,Competitive,2025-10-28,4,Working,full-time,Shift Lead,44.9,101189
+5321,Competitive,2025-11-17,4,Working,part-time,Shift Lead,25.8,103520
+5255,Minimum,2025-12-03,4,Working,full-time,Shift Lead,44.7,102719
+5492,Premium,2025-12-14,4,Working,part-time,Shift Lead,25.5,105074
+5075,Competitive,2025-12-28,4,Working,full-time,Shift Lead,46.4,100900
+5756,Competitive,2021-08-29,4,Left,part-time,Shift Lead,25.0,107548
+5209,Minimum,2021-10-12,4,Left,full-time,Shift Lead,47.8,102221
+5114,Minimum,2022-01-06,4,Fired,part-time,Shift Lead,25.3,101246
+5849,Competitive,2023-04-16,4,Fired,full-time,Bartender,40.5,108451
+5949,Competitive,2022-05-01,4,Left,full-time,Bartender,39.5,109532
+6057,Minimum,2022-07-06,4,Left,part-time,Bartender,21.8,110449
+5270,Premium,2024-02-29,4,Left,full-time,Bartender,41.5,102889
+5794,Competitive,2024-03-12,4,Left,full-time,Bartender,39.8,107919
+5133,Premium,2022-01-06,4,Fired,part-time,Bartender,22.1,101467
+5003,Competitive,2024-07-03,4,Left,full-time,Bartender,40.8,100022
+5059,Minimum,2023-06-30,4,Left,full-time,Bartender,39.8,100738
+5842,Minimum,2023-03-01,4,Left,part-time,Bartender,20.4,108393
+5928,Minimum,2021-12-26,4,Left,full-time,Bartender,40.1,109401
+5504,Minimum,2024-08-19,4,Left,full-time,Bartender,40.0,105183
+5639,Minimum,2022-09-18,4,Left,part-time,Bartender,21.8,106430
+5374,Competitive,2023-01-14,4,Left,full-time,Bartender,40.6,104009
+5757,Competitive,2024-02-29,4,Fired,full-time,Bartender,39.1,107561
+6058,Competitive,2024-02-02,4,Left,part-time,Bartender,23.5,110451
+5290,Competitive,2024-02-28,4,Left,full-time,Bartender,39.9,103149
+6024,Competitive,2024-02-21,4,Left,full-time,Bartender,41.9,110135
+5646,Competitive,2023-07-22,4,Left,part-time,Bartender,23.5,106492
+5916,Minimum,2021-12-03,4,Left,full-time,Bartender,39.5,109254
+5409,Competitive,2021-03-13,4,Left,full-time,Bartender,39.1,104352
+5110,Competitive,2023-11-28,4,Left,part-time,Bartender,21.1,101217
+5644,Minimum,2023-08-07,4,Left,full-time,Server,39.3,106478
+5911,Competitive,2024-05-12,4,Left,full-time,Server,37.2,109229
+5007,Minimum,2024-08-14,4,Left,full-time,Server,38.1,100065
+5030,Competitive,2022-05-13,4,Left,full-time,Server,39.2,100317
+5322,Competitive,2021-05-16,4,Left,part-time,Server,20.5,103521
+5083,Competitive,2024-08-30,4,Left,part-time,Server,21.1,100953
+5233,Minimum,2021-08-31,4,Fired,part-time,Server,21.8,102477
+5830,Competitive,2023-02-17,4,Left,full-time,Server,38.4,108221
+5966,Competitive,2023-04-02,4,Left,full-time,Server,37.3,109694
+5899,Competitive,2024-02-08,4,Left,full-time,Server,37.1,109071
+5578,Competitive,2023-01-12,4,Left,full-time,Server,34.8,105811
+6012,Competitive,2024-09-05,4,Left,part-time,Server,21.4,110032
+5234,Competitive,2022-05-05,4,Left,part-time,Server,18.8,102506
+5205,Competitive,2023-05-07,4,Left,part-time,Server,19.9,102197
+5685,Competitive,2021-01-23,4,Left,full-time,Server,38.5,106935
+5917,Competitive,2022-11-17,4,Left,full-time,Server,39.0,109257
+5809,Competitive,2023-01-23,4,Left,full-time,Server,35.8,108032
+5742,Minimum,2021-06-03,4,Left,full-time,Server,40.0,107429
+5743,Minimum,2021-05-02,4,Left,part-time,Server,19.4,107442
+5074,Premium,2022-08-25,4,Left,part-time,Server,19.0,100887
+5134,Competitive,2021-01-01,4,Left,part-time,Server,21.6,101476
+5106,Competitive,2024-04-19,4,Left,full-time,Server,39.5,101186
+5957,Minimum,2022-05-02,4,Left,full-time,Server,39.7,109611
+5968,Premium,2023-12-21,4,Left,full-time,Server,38.1,109733
+5643,Competitive,2023-07-17,4,Left,full-time,Server,36.3,106475
+6051,Minimum,2025-01-26,4,Fired,part-time,Server,20.2,110350
+5956,Minimum,2024-06-17,4,Left,part-time,Server,23.2,109601
+5008,Competitive,2021-10-06,4,Left,part-time,Server,19.6,100072
+6009,Minimum,2021-08-02,4,Fired,full-time,Server,40.0,110015
+5964,Competitive,2023-08-27,4,Left,full-time,Server,35.7,109688
+5740,Competitive,2022-10-06,4,Left,full-time,Server,38.3,107391
+5933,Competitive,2025-03-28,4,Left,full-time,Server,37.8,109440
+5601,Competitive,2023-12-10,4,Left,part-time,Server,18.5,106031
+5772,Competitive,2024-05-19,4,Left,part-time,Server,21.2,107757
+5965,Competitive,2022-08-28,4,Left,part-time,Server,20.9,109692
+5640,Competitive,2022-02-05,4,Fired,full-time,Server,38.4,106434
+6055,Minimum,2024-10-02,4,Left,full-time,Server,38.9,110440
+5248,Premium,2021-03-28,4,Left,full-time,Server,38.3,102624
+5041,Competitive,2024-08-09,4,Left,full-time,Server,36.9,100462
+5247,Minimum,2022-11-21,4,Fired,part-time,Server,20.4,102621
+5602,Minimum,2024-08-10,4,Left,part-time,Server,20.3,106033
+5645,Competitive,2023-06-26,4,Left,part-time,Server,19.1,106482
+5216,Competitive,2024-01-16,4,Left,full-time,Server,38.8,102299
+5907,Minimum,2024-10-05,4,Left,full-time,Server,40.0,109155
+5507,Minimum,2022-09-20,4,Left,full-time,Server,39.3,105198
+5950,Competitive,2024-01-19,4,Left,full-time,Server,37.7,109541
+5573,Competitive,2022-07-07,4,Left,part-time,Server,22.4,105781
+5400,Competitive,2024-08-05,4,Left,part-time,Server,21.4,104265
+5279,Competitive,2025-08-22,4,Left,part-time,Server,20.6,102969
+5616,Competitive,2023-12-24,4,Left,full-time,Server Assistant,36.1,106216
+5575,Premium,2025-03-19,4,Left,full-time,Server Assistant,33.6,105798
+5692,Competitive,2021-01-17,4,Left,full-time,Server Assistant,35.7,106994
+6047,Minimum,2024-06-27,4,Left,part-time,Server Assistant,18.1,110322
+5896,Minimum,2022-07-25,4,Left,part-time,Server Assistant,19.3,109050
+5469,Competitive,2025-07-03,4,Left,part-time,Server Assistant,16.0,104815
+5319,Minimum,2024-08-29,4,Left,full-time,Server Assistant,33.0,103500
+6015,Premium,2023-12-05,4,Left,full-time,Server Assistant,34.9,110064
+5263,Minimum,2023-03-27,4,Left,full-time,Server Assistant,36.2,102818
+5053,Competitive,2023-06-29,4,Left,part-time,Server Assistant,18.0,100663
+5235,Competitive,2024-04-03,4,Left,part-time,Server Assistant,19.4,102521
+5359,Minimum,2021-08-25,4,Left,part-time,Server Assistant,17.5,103793
+5897,Competitive,2021-09-08,4,Left,full-time,Server Assistant,37.4,109062
+5111,Competitive,2024-03-06,4,Left,full-time,Server Assistant,31.8,101223
+5989,Competitive,2025-07-06,4,Left,full-time,Server Assistant,35.9,109925
+5198,Minimum,2021-12-09,4,Left,part-time,Server Assistant,17.7,102108
+5537,Competitive,2024-05-06,4,Fired,part-time,Server Assistant,17.3,105423
+5660,Minimum,2024-11-18,4,Left,part-time,Server Assistant,17.7,106670
+5694,Competitive,2021-08-20,4,Left,full-time,Server Assistant,33.9,107007
+6038,Minimum,2025-08-30,4,Fired,full-time,Server Assistant,35.7,110256
+5713,Competitive,2022-12-07,4,Left,full-time,Server Assistant,36.9,107175
+5538,Competitive,2022-11-22,4,Left,part-time,Server Assistant,20.4,105444
+5282,Minimum,2025-09-23,4,Left,part-time,Server Assistant,17.5,103001
+6054,Competitive,2021-12-04,4,Left,part-time,Server Assistant,18.9,110421
+5503,Minimum,2021-02-18,4,Left,full-time,Server Assistant,33.5,105174
+5741,Minimum,2025-01-22,4,Left,full-time,Server Assistant,34.8,107420
+5738,Minimum,2024-04-09,4,Left,full-time,Server Assistant,35.0,107377
+5275,Competitive,2023-04-14,4,Fired,part-time,Server Assistant,18.0,102922
+5501,Minimum,2022-07-09,4,Left,part-time,Server Assistant,18.2,105135
+5737,Competitive,2023-08-06,4,Left,part-time,Server Assistant,18.4,107375
+5017,Competitive,2021-10-28,4,Fired,full-time,Server Assistant,36.2,100153
+5069,Premium,2022-11-09,4,Left,full-time,Server Assistant,36.4,100851
+5593,Premium,2024-09-27,4,Fired,full-time,Server Assistant,36.3,105932
+5462,Premium,2024-03-21,4,Left,part-time,Server Assistant,16.1,104750
+5786,Minimum,2021-10-27,4,Left,part-time,Server Assistant,15.1,107850
+5317,Minimum,2022-06-02,4,Left,part-time,Server Assistant,18.6,103478
+5910,Minimum,2023-02-13,4,Fired,full-time,Server Assistant,35.0,109221
+5500,Premium,2021-08-02,4,Left,full-time,Server Assistant,38.0,105131
+5895,Competitive,2025-08-29,4,Fired,full-time,Server Assistant,33.0,109039
+5000,Competitive,2024-09-17,4,Left,part-time,Server Assistant,18.0,100001
+5654,Minimum,2021-09-01,4,Left,part-time,Server Assistant,16.3,106602
+5599,Minimum,2021-09-10,4,Left,part-time,Server Assistant,17.3,106009
+5864,Premium,2022-04-03,4,Left,full-time,Server Assistant,33.6,108615
+5765,Competitive,2022-06-20,4,Left,full-time,Server Assistant,32.8,107644
+5256,Minimum,2025-11-15,4,Left,full-time,Server Assistant,35.1,102749
+5411,Competitive,2022-08-28,4,Left,part-time,Server Assistant,14.6,104359
+5565,Premium,2022-02-12,4,Left,part-time,Server Assistant,18.5,105685
+5246,Competitive,2023-07-24,4,Left,part-time,Server Assistant,17.4,102614
+5157,Competitive,2024-11-02,4,Left,full-time,Host,31.7,101694
+5345,Minimum,2024-10-27,4,Left,part-time,Host,16.1,103705
+5179,Competitive,2021-09-29,4,Left,full-time,Host,31.6,101968
+5515,Competitive,2025-10-25,4,Left,part-time,Host,14.4,105239
+5065,Minimum,2023-10-27,4,Left,full-time,Host,30.7,100806
+5977,Minimum,2023-08-28,4,Left,part-time,Host,13.0,109862
+5626,Competitive,2025-01-22,4,Left,full-time,Host,34.3,106319
+5060,Minimum,2021-07-13,4,Left,part-time,Host,14.0,100744
+5126,Premium,2022-03-04,4,Left,full-time,Host,30.8,101365
+5832,Competitive,2024-11-15,4,Left,part-time,Host,17.5,108228
+5088,Minimum,2025-01-13,4,Left,full-time,Host,30.4,101010
+5484,Minimum,2024-02-20,4,Fired,part-time,Host,12.1,104982
+5638,Minimum,2022-02-02,4,Left,full-time,Host,30.9,106414
+6066,Competitive,2021-09-09,4,Left,part-time,Host,14.9,110485
+5551,Minimum,2023-11-20,5,Working,full-time,Manager,51.2,105588
+5448,Competitive,2024-05-02,5,Working,full-time,Manager,50.9,104649
+5097,Competitive,2024-08-17,5,Working,full-time,Manager,47.8,101101
+5172,Minimum,2024-10-27,5,Working,full-time,Manager,49.6,101876
+5770,Minimum,2024-12-25,5,Working,full-time,Manager,51.7,107728
+5851,Minimum,2025-02-15,5,Working,full-time,Manager,48.5,108454
+5858,Minimum,2025-03-30,5,Working,full-time,Manager,49.7,108521
+5981,Minimum,2025-05-10,5,Working,full-time,Shift Lead,44.5,109881
+5900,Minimum,2025-05-26,5,Working,part-time,Shift Lead,26.7,109084
+5603,Competitive,2025-06-24,5,Working,full-time,Shift Lead,43.4,106042
+5887,Minimum,2025-08-15,5,Working,part-time,Shift Lead,25.7,108922
+5435,Premium,2025-09-05,5,Working,full-time,Shift Lead,43.9,104545
+5875,Premium,2025-10-19,5,Working,part-time,Shift Lead,26.3,108803
+5782,Competitive,2025-10-31,5,Working,full-time,Shift Lead,43.6,107830
+5583,Minimum,2025-11-18,5,Working,part-time,Shift Lead,25.3,105848
+5591,Minimum,2025-12-09,5,Working,full-time,Shift Lead,43.9,105907
+5004,Competitive,2025-12-14,5,Working,part-time,Shift Lead,23.0,100030
+5542,Minimum,2025-12-28,5,Working,full-time,Shift Lead,45.7,105513
+6045,Premium,2022-12-08,5,Left,part-time,Shift Lead,25.4,110303
+5534,Premium,2021-11-01,5,Left,full-time,Shift Lead,44.8,105391
+5090,Competitive,2022-01-10,5,Left,part-time,Shift Lead,22.4,101037
+5624,Premium,2021-11-23,5,Left,full-time,Bartender,38.4,106309
+5752,Competitive,2021-05-20,5,Left,full-time,Bartender,40.3,107505
+5479,Premium,2021-02-14,5,Fired,part-time,Bartender,23.9,104922
+5027,Minimum,2023-08-19,5,Left,full-time,Bartender,41.5,100271
+5189,Minimum,2023-07-29,5,Left,full-time,Bartender,39.5,102052
+5984,Competitive,2022-08-26,5,Fired,part-time,Bartender,22.6,109907
+5810,Premium,2024-04-19,5,Left,full-time,Bartender,39.7,108047
+5458,Competitive,2024-04-26,5,Left,full-time,Bartender,41.3,104710
+5714,Minimum,2022-09-22,5,Left,part-time,Bartender,20.9,107180
+5932,Competitive,2023-03-26,5,Left,full-time,Bartender,40.1,109437
+5289,Minimum,2021-03-12,5,Left,full-time,Bartender,42.4,103145
+5446,Premium,2024-01-22,5,Left,part-time,Bartender,22.6,104630
+5130,Competitive,2024-04-28,5,Left,full-time,Bartender,38.2,101426
+5705,Minimum,2021-11-15,5,Left,full-time,Bartender,41.3,107082
+5252,Competitive,2022-04-17,5,Left,part-time,Bartender,23.0,102696
+5505,Competitive,2021-10-17,5,Fired,full-time,Bartender,40.7,105187
+5606,Competitive,2021-02-11,5,Left,full-time,Bartender,37.6,106109
+5579,Competitive,2023-11-05,5,Left,part-time,Bartender,21.9,105815
+5608,Competitive,2024-03-01,5,Fired,full-time,Bartender,41.2,106139
+5369,Minimum,2021-06-02,5,Left,full-time,Bartender,39.9,103942
+5708,Competitive,2022-06-13,5,Left,part-time,Bartender,21.7,107101
+5621,Minimum,2021-06-02,5,Left,full-time,Server,37.6,106264
+5259,Minimum,2021-10-21,5,Fired,full-time,Server,36.5,102770
+5482,Premium,2022-02-21,5,Left,full-time,Server,37.2,104960
+5145,Minimum,2021-05-31,5,Left,full-time,Server,38.8,101591
+6018,Competitive,2024-05-24,5,Fired,part-time,Server,22.1,110073
+5867,Competitive,2025-02-09,5,Left,part-time,Server,19.2,108678
+5926,Minimum,2024-12-15,5,Left,part-time,Server,19.2,109393
+5039,Competitive,2024-11-12,5,Fired,full-time,Server,34.0,100433
+5127,Premium,2022-06-24,5,Left,full-time,Server,39.2,101384
+5046,Premium,2025-03-08,5,Left,full-time,Server,39.6,100520
+5566,Competitive,2021-12-11,5,Left,full-time,Server,39.2,105692
+5167,Competitive,2023-08-12,5,Left,part-time,Server,21.2,101815
+5850,Competitive,2023-04-06,5,Left,part-time,Server,17.7,108452
+5014,Competitive,2022-12-19,5,Left,part-time,Server,19.4,100135
+5395,Minimum,2025-04-26,5,Fired,full-time,Server,38.8,104216
+5102,Minimum,2023-01-08,5,Left,full-time,Server,38.6,101170
+5228,Minimum,2023-01-29,5,Left,full-time,Server,39.3,102392
+5754,Competitive,2025-01-19,5,Left,full-time,Server,39.6,107532
+5183,Competitive,2021-11-29,5,Fired,part-time,Server,18.2,101991
+5356,Competitive,2024-08-01,5,Left,part-time,Server,18.8,103768
+5100,Minimum,2025-06-07,5,Left,part-time,Server,21.2,101133
+5365,Minimum,2022-10-01,5,Left,full-time,Server,39.0,103891
+5294,Minimum,2023-01-03,5,Left,full-time,Server,37.3,103198
+5659,Competitive,2023-09-10,5,Left,full-time,Server,37.2,106656
+5093,Competitive,2021-06-22,5,Left,full-time,Server,38.6,101089
+5058,Minimum,2022-08-04,5,Fired,part-time,Server,20.1,100723
+5691,Minimum,2022-04-04,5,Left,part-time,Server,19.0,106991
+5808,Minimum,2023-11-14,5,Left,part-time,Server,20.5,108029
+5168,Minimum,2021-03-16,5,Left,full-time,Server,34.4,101816
+5971,Competitive,2025-06-15,5,Fired,full-time,Server,37.8,109808
+5509,Minimum,2024-09-21,5,Left,full-time,Server,37.0,105207
+5915,Premium,2024-02-06,5,Left,full-time,Server,38.3,109253
+5098,Minimum,2024-03-21,5,Left,part-time,Server,19.2,101109
+5084,Competitive,2024-07-04,5,Left,part-time,Server,22.5,100956
+5325,Minimum,2022-07-31,5,Left,part-time,Server,19.6,103554
+5477,Competitive,2025-04-20,5,Left,full-time,Server,40.8,104898
+5032,Competitive,2023-08-20,5,Fired,full-time,Server,33.8,100345
+5412,Competitive,2023-10-01,5,Left,full-time,Server,37.0,104360
+5918,Minimum,2024-07-24,5,Left,full-time,Server,36.3,109268
+5108,Premium,2024-08-22,5,Fired,part-time,Server,20.0,101192
+6011,Minimum,2021-06-18,5,Left,part-time,Server,19.3,110025
+5869,Minimum,2023-11-19,5,Fired,part-time,Server,20.2,108702
+5175,Competitive,2024-03-27,5,Left,full-time,Server,38.7,101918
+5891,Minimum,2022-09-27,5,Left,full-time,Server,39.3,108968
+6003,Minimum,2021-12-16,5,Left,full-time,Server,38.1,109979
+5784,Minimum,2023-10-16,5,Fired,full-time,Server,38.5,107845
+5970,Competitive,2024-01-22,5,Left,part-time,Server,21.0,109792
+6034,Minimum,2022-12-01,5,Left,part-time,Server,21.6,110227
+5856,Minimum,2022-05-14,5,Left,part-time,Server,20.0,108492
+5615,Minimum,2025-04-09,5,Left,full-time,Server Assistant,33.5,106204
+5146,Competitive,2023-01-21,5,Fired,full-time,Server Assistant,35.7,101593
+6032,Minimum,2025-05-11,5,Left,full-time,Server Assistant,35.6,110212
+5052,Minimum,2021-05-21,5,Left,part-time,Server Assistant,18.8,100651
+5399,Minimum,2024-05-22,5,Left,part-time,Server Assistant,16.7,104263
+5309,Competitive,2024-06-14,5,Left,part-time,Server Assistant,18.0,103396
+5311,Minimum,2024-11-08,5,Left,full-time,Server Assistant,34.7,103411
+5292,Minimum,2023-10-02,5,Left,full-time,Server Assistant,33.8,103165
+5173,Premium,2024-04-15,5,Left,full-time,Server Assistant,31.7,101888
+5281,Minimum,2024-07-02,5,Left,part-time,Server Assistant,19.1,102987
+5185,Premium,2022-02-21,5,Left,part-time,Server Assistant,19.0,101996
+5801,Minimum,2021-07-20,5,Left,part-time,Server Assistant,17.4,107989
+5112,Competitive,2023-01-04,5,Left,full-time,Server Assistant,36.4,101228
+5200,Minimum,2025-09-14,5,Fired,full-time,Server Assistant,33.7,102130
+5937,Minimum,2025-10-16,5,Left,full-time,Server Assistant,35.6,109453
+5085,Minimum,2023-02-11,5,Left,part-time,Server Assistant,18.0,100960
+5329,Minimum,2022-09-17,5,Left,part-time,Server Assistant,21.5,103586
+5161,Minimum,2024-11-19,5,Fired,part-time,Server Assistant,18.6,101744
+5105,Minimum,2021-01-24,5,Fired,full-time,Server Assistant,33.4,101184
+6027,Competitive,2024-06-04,5,Left,full-time,Server Assistant,36.0,110178
+5679,Competitive,2024-03-26,5,Left,full-time,Server Assistant,33.7,106875
+5195,Competitive,2023-02-27,5,Left,part-time,Server Assistant,19.0,102089
+5103,Competitive,2022-08-08,5,Left,part-time,Server Assistant,18.1,101172
+5245,Competitive,2022-11-12,5,Left,part-time,Server Assistant,17.6,102592
+5934,Minimum,2022-02-15,5,Left,full-time,Server Assistant,34.4,109448
+5597,Minimum,2023-06-05,5,Left,full-time,Server Assistant,36.2,105970
+5286,Competitive,2022-01-05,5,Left,full-time,Server Assistant,35.5,103049
+5222,Minimum,2023-08-02,5,Fired,part-time,Server Assistant,16.9,102343
+5415,Competitive,2025-10-09,5,Left,part-time,Server Assistant,18.8,104391
+5272,Competitive,2023-11-01,5,Fired,part-time,Server Assistant,17.4,102902
+5011,Competitive,2025-11-20,5,Left,full-time,Server Assistant,37.1,100091
+5291,Minimum,2021-07-21,5,Left,full-time,Server Assistant,33.1,103161
+5427,Competitive,2025-11-27,5,Fired,full-time,Server Assistant,34.6,104489
+5472,Minimum,2021-11-28,5,Fired,part-time,Server Assistant,17.3,104849
+5495,Minimum,2024-09-07,5,Fired,part-time,Server Assistant,16.7,105092
+5212,Competitive,2022-06-28,5,Left,part-time,Server Assistant,17.6,102260
+5960,Minimum,2022-06-13,5,Fired,full-time,Server Assistant,33.6,109654
+5459,Competitive,2023-07-24,5,Left,full-time,Server Assistant,34.9,104726
+5001,Competitive,2025-01-10,5,Left,full-time,Server Assistant,37.1,100009
+5229,Minimum,2025-12-11,5,Fired,part-time,Server Assistant,15.8,102412
+5125,Premium,2023-07-06,5,Left,part-time,Server Assistant,18.1,101351
+5483,Competitive,2021-09-02,5,Left,part-time,Server Assistant,19.5,104971
+5124,Minimum,2022-09-07,5,Left,full-time,Server Assistant,33.7,101326
+5238,Competitive,2025-08-03,5,Left,full-time,Server Assistant,34.5,102525
+5580,Minimum,2024-06-19,5,Left,full-time,Server Assistant,34.5,105819
+5681,Minimum,2024-11-16,5,Left,part-time,Server Assistant,18.5,106884
+5874,Minimum,2021-01-19,5,Left,part-time,Server Assistant,19.5,108771
+5276,Minimum,2022-07-15,5,Left,full-time,Host,36.4,102941
+5633,Competitive,2025-03-22,5,Left,part-time,Host,12.7,106394
+5192,Minimum,2025-08-16,5,Left,full-time,Host,33.1,102068
+5196,Minimum,2024-04-05,5,Fired,part-time,Host,16.4,102091
+5018,Competitive,2025-07-14,5,Fired,full-time,Host,30.1,100157
+5422,Competitive,2021-10-27,5,Fired,part-time,Host,13.3,104433
+5731,Premium,2024-01-24,5,Fired,full-time,Host,31.7,107323
+5584,Competitive,2021-01-24,5,Left,part-time,Host,14.6,105855
+5506,Premium,2025-07-25,5,Fired,full-time,Host,31.4,105194
+5129,Minimum,2021-02-19,5,Fired,part-time,Host,17.4,101409
+6033,Competitive,2023-04-26,5,Left,full-time,Host,31.9,110223
+5419,Premium,2024-12-14,5,Left,part-time,Host,13.1,104407
+5154,Minimum,2021-09-28,5,Left,full-time,Host,32.1,101667
+5641,Minimum,2021-12-31,5,Fired,part-time,Host,14.5,106444
+5303,Competitive,2024-01-18,6,Working,full-time,Manager,49.0,103365
+5522,Competitive,2024-05-31,6,Working,full-time,Manager,50.2,105298
+5846,Competitive,2024-08-22,6,Working,full-time,Manager,50.4,108435
+5320,Minimum,2024-10-28,6,Working,full-time,Manager,51.4,103519
+5466,Competitive,2025-01-01,6,Working,full-time,Manager,49.0,104800
+5396,Minimum,2025-02-19,6,Working,full-time,Manager,49.1,104235
+5418,Minimum,2025-04-02,6,Working,full-time,Manager,50.0,104399
+5442,Competitive,2025-05-10,6,Working,full-time,Shift Lead,44.3,104598
+6063,Competitive,2025-05-29,6,Working,part-time,Shift Lead,26.0,110476
+5665,Minimum,2025-06-28,6,Working,full-time,Shift Lead,43.9,106735
+5629,Competitive,2025-08-21,6,Working,part-time,Shift Lead,24.7,106336
+5854,Competitive,2025-09-07,6,Working,full-time,Shift Lead,46.1,108482
+5710,Minimum,2025-10-19,6,Working,part-time,Shift Lead,23.9,107132
+5202,Competitive,2025-10-31,6,Working,full-time,Shift Lead,41.1,102153
+5351,Premium,2025-11-19,6,Working,part-time,Shift Lead,24.1,103739
+5138,Premium,2025-12-10,6,Working,full-time,Shift Lead,45.3,101512
+5143,Competitive,2025-12-15,6,Working,part-time,Shift Lead,24.9,101564
+5748,Minimum,2025-12-31,6,Working,full-time,Shift Lead,44.9,107469
+5564,Minimum,2022-08-20,6,Left,part-time,Shift Lead,24.4,105679
+5831,Competitive,2023-05-07,6,Left,full-time,Shift Lead,44.4,108222
+6062,Minimum,2021-03-15,6,Left,part-time,Shift Lead,27.1,110472
+5776,Premium,2023-10-15,6,Left,full-time,Bartender,41.2,107778
+5672,Competitive,2022-09-27,6,Left,full-time,Bartender,44.6,106831
+5693,Competitive,2022-10-03,6,Left,part-time,Bartender,23.1,106995
+5261,Premium,2023-04-29,6,Left,full-time,Bartender,37.5,102788
+5988,Minimum,2024-01-28,6,Left,full-time,Bartender,40.1,109924
+5082,Competitive,2024-08-07,6,Left,part-time,Bartender,23.3,100939
+5797,Minimum,2021-10-22,6,Left,full-time,Bartender,37.8,107956
+5828,Minimum,2024-07-04,6,Left,full-time,Bartender,38.5,108213
+5191,Premium,2024-05-21,6,Left,part-time,Bartender,21.8,102055
+5170,Minimum,2021-09-17,6,Left,full-time,Bartender,42.5,101856
+5716,Competitive,2021-07-20,6,Left,full-time,Bartender,39.7,107191
+5556,Minimum,2022-01-27,6,Left,part-time,Bartender,22.9,105619
+5337,Minimum,2024-08-10,6,Left,full-time,Bartender,41.2,103657
+5814,Minimum,2024-10-14,6,Left,full-time,Bartender,38.7,108110
+5872,Competitive,2023-02-28,6,Left,part-time,Bartender,23.4,108739
+6049,Minimum,2024-02-28,6,Left,full-time,Bartender,40.1,110332
+5684,Competitive,2021-01-17,6,Left,full-time,Bartender,39.5,106907
+5749,Minimum,2023-03-20,6,Left,part-time,Bartender,21.6,107474
+5471,Minimum,2024-09-10,6,Fired,full-time,Bartender,38.8,104832
+5204,Competitive,2023-05-06,6,Left,full-time,Bartender,39.4,102192
+5543,Minimum,2023-11-02,6,Left,part-time,Bartender,20.8,105527
+5300,Competitive,2024-12-15,6,Left,full-time,Server,36.9,103303
+5166,Competitive,2021-07-05,6,Left,full-time,Server,37.2,101788
+5647,Competitive,2023-04-23,6,Left,full-time,Server,37.9,106510
+5760,Competitive,2023-11-17,6,Fired,full-time,Server,39.9,107596
+5775,Competitive,2023-09-08,6,Left,part-time,Server,20.9,107776
+5726,Minimum,2024-02-01,6,Left,part-time,Server,20.3,107268
+5798,Competitive,2022-09-11,6,Left,part-time,Server,21.0,107960
+5068,Competitive,2021-04-19,6,Left,full-time,Server,37.7,100841
+5609,Minimum,2021-01-06,6,Left,full-time,Server,40.0,106145
+5169,Competitive,2022-08-19,6,Left,full-time,Server,39.6,101844
+5405,Minimum,2021-12-14,6,Left,full-time,Server,37.6,104298
+5963,Minimum,2022-01-01,6,Left,part-time,Server,18.4,109686
+5165,Minimum,2024-08-17,6,Fired,part-time,Server,18.8,101774
+5490,Competitive,2023-10-19,6,Left,part-time,Server,21.6,105071
+5056,Competitive,2022-05-19,6,Left,full-time,Server,38.3,100668
+5555,Competitive,2024-10-01,6,Left,full-time,Server,37.3,105611
+5553,Minimum,2022-10-17,6,Left,full-time,Server,39.6,105601
+5585,Minimum,2023-01-01,6,Left,full-time,Server,37.4,105863
+5901,Minimum,2024-07-07,6,Left,part-time,Server,17.0,109087
+5366,Competitive,2023-01-07,6,Fired,part-time,Server,18.9,103907
+5518,Minimum,2024-03-03,6,Left,part-time,Server,19.0,105260
+5475,Competitive,2021-06-17,6,Fired,full-time,Server,37.4,104866
+6008,Premium,2023-03-05,6,Fired,full-time,Server,36.5,110010
+5139,Minimum,2024-10-19,6,Left,full-time,Server,38.7,101522
+5545,Competitive,2025-05-08,6,Left,full-time,Server,36.4,105545
+5047,Competitive,2024-06-18,6,Left,part-time,Server,19.1,100542
+5948,Competitive,2022-02-16,6,Left,part-time,Server,20.5,109525
+5194,Competitive,2025-02-07,6,Fired,part-time,Server,19.2,102081
+5445,Minimum,2025-05-10,6,Left,full-time,Server,35.5,104620
+5920,Competitive,2022-04-19,6,Left,full-time,Server,36.8,109302
+5733,Minimum,2021-04-16,6,Left,full-time,Server,38.9,107334
+5424,Competitive,2022-01-16,6,Left,full-time,Server,36.0,104470
+5804,Premium,2022-10-28,6,Left,part-time,Server,20.1,108003
+5993,Minimum,2023-12-19,6,Left,part-time,Server,22.1,109944
+5745,Minimum,2022-12-27,6,Fired,part-time,Server,19.6,107451
+5581,Minimum,2023-12-02,6,Left,full-time,Server,37.8,105835
+5392,Minimum,2024-06-04,6,Left,full-time,Server,37.6,104187
+5766,Minimum,2023-02-20,6,Left,full-time,Server,38.2,107649
+5827,Competitive,2022-11-13,6,Left,full-time,Server,38.2,108211
+6061,Competitive,2023-01-14,6,Left,part-time,Server,18.0,110462
+5038,Premium,2022-06-04,6,Left,part-time,Server,21.0,100412
+6001,Minimum,2022-11-02,6,Fired,part-time,Server,20.2,109974
+5819,Premium,2023-02-14,6,Left,full-time,Server,36.1,108136
+5994,Minimum,2024-06-07,6,Left,full-time,Server,37.4,109945
+5783,Minimum,2024-04-12,6,Left,full-time,Server,38.7,107836
+5296,Competitive,2022-07-12,6,Left,full-time,Server,38.1,103214
+5260,Minimum,2022-10-02,6,Left,part-time,Server,20.2,102782
+5023,Competitive,2021-08-25,6,Left,part-time,Server,20.8,100193
+5548,Competitive,2023-03-18,6,Left,part-time,Server,20.3,105575
+5449,Premium,2025-08-26,6,Left,full-time,Server Assistant,37.0,104656
+5389,Competitive,2023-05-17,6,Left,full-time,Server Assistant,36.7,104161
+5021,Competitive,2022-09-18,6,Left,full-time,Server Assistant,34.1,100180
+5879,Premium,2025-08-28,6,Fired,part-time,Server Assistant,17.0,108843
+5935,Minimum,2024-08-07,6,Left,part-time,Server Assistant,17.8,109450
+6043,Premium,2022-06-12,6,Left,part-time,Server Assistant,16.6,110292
+5428,Minimum,2025-05-06,6,Left,full-time,Server Assistant,37.8,104490
+5417,Minimum,2024-12-13,6,Left,full-time,Server Assistant,34.8,104398
+5408,Competitive,2022-05-07,6,Left,full-time,Server Assistant,36.3,104340
+5696,Competitive,2022-11-04,6,Left,part-time,Server Assistant,17.1,107012
+5434,Competitive,2023-11-09,6,Left,part-time,Server Assistant,20.4,104535
+5266,Minimum,2024-10-18,6,Left,part-time,Server Assistant,17.2,102857
+5394,Competitive,2021-07-03,6,Left,full-time,Server Assistant,35.1,104203
+5481,Minimum,2023-06-23,6,Left,full-time,Server Assistant,35.6,104951
+5524,Competitive,2022-01-24,6,Left,full-time,Server Assistant,37.2,105319
+5604,Minimum,2024-02-09,6,Left,part-time,Server Assistant,17.1,106079
+5244,Minimum,2022-05-12,6,Left,part-time,Server Assistant,17.9,102580
+5367,Minimum,2025-07-16,6,Left,part-time,Server Assistant,19.3,103911
+5558,Competitive,2024-07-21,6,Fired,full-time,Server Assistant,34.6,105641
+5532,Minimum,2023-07-19,6,Fired,full-time,Server Assistant,34.9,105370
+5079,Minimum,2021-12-21,6,Left,full-time,Server Assistant,34.1,100919
+5398,Competitive,2022-04-25,6,Left,part-time,Server Assistant,19.8,104257
+5357,Competitive,2021-07-12,6,Left,part-time,Server Assistant,17.3,103782
+5080,Competitive,2022-05-29,6,Left,part-time,Server Assistant,18.5,100921
+5605,Competitive,2024-12-16,6,Left,full-time,Server Assistant,34.6,106093
+5042,Minimum,2021-06-20,6,Left,full-time,Server Assistant,36.5,100467
+5426,Minimum,2023-03-04,6,Fired,full-time,Server Assistant,35.1,104484
+5642,Premium,2025-01-31,6,Left,part-time,Server Assistant,16.5,106464
+5632,Minimum,2023-09-08,6,Fired,part-time,Server Assistant,17.7,106388
+5494,Competitive,2021-01-10,6,Left,part-time,Server Assistant,14.7,105085
+5251,Competitive,2025-08-13,6,Left,full-time,Server Assistant,33.7,102680
+5883,Minimum,2022-05-16,6,Fired,full-time,Server Assistant,33.1,108895
+5840,Competitive,2024-11-12,6,Left,full-time,Server Assistant,35.2,108378
+5909,Minimum,2025-09-30,6,Fired,part-time,Server Assistant,20.2,109214
+5617,Competitive,2021-12-21,6,Left,part-time,Server Assistant,16.2,106221
+5865,Minimum,2021-09-22,6,Left,part-time,Server Assistant,15.4,108674
+5441,Competitive,2024-05-02,6,Left,full-time,Server Assistant,35.1,104589
+5314,Premium,2025-08-29,6,Left,full-time,Server Assistant,35.7,103449
+5373,Minimum,2022-12-03,6,Left,full-time,Server Assistant,35.7,104007
+5758,Competitive,2022-05-08,6,Fired,part-time,Server Assistant,16.7,107587
+5421,Minimum,2025-03-24,6,Left,part-time,Server Assistant,19.9,104426
+5452,Competitive,2021-07-22,6,Left,part-time,Server Assistant,19.3,104671
+5190,Minimum,2024-01-26,6,Fired,full-time,Server Assistant,32.9,102054
+5666,Competitive,2023-12-27,6,Left,full-time,Server Assistant,36.8,106746
+5480,Competitive,2022-01-07,6,Left,full-time,Server Assistant,34.5,104928
+5706,Minimum,2025-10-28,6,Left,part-time,Server Assistant,18.5,107090
+5700,Competitive,2022-10-16,6,Left,part-time,Server Assistant,17.7,107044
+5859,Premium,2024-06-09,6,Fired,full-time,Host,33.6,108538
+5834,Competitive,2025-03-26,6,Left,part-time,Host,15.9,108288
+5767,Competitive,2021-10-24,6,Left,full-time,Host,31.3,107656
+5625,Competitive,2024-05-07,6,Left,part-time,Host,15.7,106316
+5947,Minimum,2023-01-11,6,Left,full-time,Host,33.4,109516
+5919,Competitive,2022-09-15,6,Left,part-time,Host,12.4,109286
+5938,Minimum,2022-03-11,6,Left,full-time,Host,35.8,109460
+5180,Competitive,2022-12-30,6,Left,part-time,Host,16.1,101983
+5889,Competitive,2025-06-22,6,Left,full-time,Host,33.6,108937
+5727,Competitive,2023-02-22,6,Left,part-time,Host,15.1,107271
+5214,Competitive,2025-04-27,6,Fired,full-time,Host,31.0,102279
+6064,Competitive,2025-08-30,6,Left,part-time,Host,15.4,110478
+5219,Minimum,2022-08-29,6,Fired,full-time,Host,32.1,102316
+5674,Minimum,2021-08-31,6,Left,part-time,Host,16.2,106847
+5785,Minimum,2024-02-16,7,Working,full-time,Manager,51.1,107849
+5132,Competitive,2024-06-11,7,Working,full-time,Manager,51.1,101443
+5552,Premium,2024-09-01,7,Working,full-time,Manager,48.3,105593
+5171,Competitive,2024-12-02,7,Working,full-time,Manager,51.4,101866
+5283,Competitive,2025-01-12,7,Working,full-time,Manager,47.7,103026
+5453,Minimum,2025-03-01,7,Working,full-time,Manager,50.0,104681
+5304,Minimum,2025-04-11,7,Working,full-time,Manager,47.4,103372
+5012,Premium,2025-05-14,7,Working,full-time,Shift Lead,46.9,100092
+5343,Competitive,2025-05-29,7,Working,part-time,Shift Lead,27.3,103695
+5630,Competitive,2025-07-03,7,Working,full-time,Shift Lead,45.2,106347
+5704,Minimum,2025-08-29,7,Working,part-time,Shift Lead,25.4,107075
+5344,Premium,2025-09-08,7,Working,full-time,Shift Lead,44.0,103700
+5253,Premium,2025-10-20,7,Working,part-time,Shift Lead,25.6,102699
+5723,Minimum,2025-11-07,7,Working,full-time,Shift Lead,44.6,107244
+5582,Premium,2025-11-20,7,Working,part-time,Shift Lead,27.2,105842
+5101,Minimum,2025-12-10,7,Working,full-time,Shift Lead,44.5,101167
+5588,Competitive,2025-12-16,7,Working,part-time,Shift Lead,24.6,105883
+5822,Competitive,2021-08-31,7,Left,full-time,Shift Lead,44.6,108167
+5868,Competitive,2021-06-27,7,Fired,part-time,Shift Lead,24.7,108692
+6037,Competitive,2023-03-05,7,Left,full-time,Shift Lead,47.2,110245
+5976,Competitive,2021-04-18,7,Left,part-time,Shift Lead,26.6,109856
+5697,Competitive,2023-12-14,7,Left,full-time,Bartender,39.5,107018
+5986,Minimum,2021-01-27,7,Left,full-time,Bartender,39.8,109913
+5186,Minimum,2021-05-02,7,Left,part-time,Bartender,20.1,102004
+5549,Competitive,2022-10-11,7,Left,full-time,Bartender,38.1,105580
+5295,Competitive,2021-09-24,7,Left,full-time,Bartender,38.8,103209
+5661,Premium,2024-04-11,7,Left,part-time,Bartender,21.3,106676
+5257,Minimum,2023-02-16,7,Fired,full-time,Bartender,40.3,102757
+5368,Competitive,2022-11-21,7,Left,full-time,Bartender,40.3,103939
+5751,Competitive,2024-01-25,7,Left,part-time,Bartender,23.4,107498
+5510,Competitive,2021-10-15,7,Left,full-time,Bartender,40.0,105208
+5215,Competitive,2022-11-13,7,Left,full-time,Bartender,41.3,102287
+5113,Minimum,2023-09-03,7,Left,part-time,Bartender,23.5,101237
+5884,Premium,2021-03-01,7,Left,full-time,Bartender,40.2,108911
+5224,Minimum,2024-09-03,7,Left,full-time,Bartender,38.1,102358
+5983,Competitive,2021-03-19,7,Left,part-time,Bartender,23.6,109900
+5913,Competitive,2021-05-21,7,Left,full-time,Bartender,42.0,109241
+5648,Minimum,2021-11-18,7,Left,full-time,Bartender,37.9,106535
+5707,Minimum,2024-07-01,7,Left,part-time,Bartender,23.5,107098
+5491,Minimum,2024-01-15,7,Left,full-time,Bartender,37.2,105073
+5904,Minimum,2021-10-16,7,Left,full-time,Bartender,38.1,109139
+5131,Minimum,2023-08-12,7,Left,part-time,Bartender,25.5,101431
+5958,Minimum,2021-11-12,7,Left,full-time,Server,40.9,109641
+5755,Minimum,2024-07-15,7,Left,full-time,Server,37.7,107544
+5010,Minimum,2021-08-12,7,Left,full-time,Server,37.6,100080
+5514,Competitive,2021-06-15,7,Left,full-time,Server,37.5,105233
+5333,Premium,2025-02-28,7,Left,part-time,Server,18.7,103640
+6021,Competitive,2023-02-09,7,Left,part-time,Server,19.0,110102
+5182,Minimum,2024-02-29,7,Left,part-time,Server,19.5,101988
+5529,Minimum,2021-05-10,7,Left,full-time,Server,39.1,105348
+5589,Competitive,2023-04-04,7,Fired,full-time,Server,38.4,105903
+5193,Premium,2022-06-27,7,Left,full-time,Server,37.5,102080
+6005,Competitive,2021-02-11,7,Left,full-time,Server,37.8,109996
+5702,Minimum,2023-10-17,7,Left,part-time,Server,18.2,107061
+6041,Minimum,2023-11-16,7,Left,part-time,Server,18.5,110261
+6004,Competitive,2022-09-09,7,Left,part-time,Server,18.6,109984
+5298,Premium,2022-02-06,7,Left,full-time,Server,37.3,103284
+5456,Competitive,2021-12-18,7,Left,full-time,Server,40.9,104698
+5619,Premium,2022-09-01,7,Left,full-time,Server,39.5,106248
+5676,Premium,2025-05-26,7,Left,full-time,Server,38.5,106857
+5531,Minimum,2023-07-12,7,Left,part-time,Server,18.6,105365
+5123,Competitive,2024-08-01,7,Fired,part-time,Server,16.3,101322
+5006,Competitive,2022-12-04,7,Left,part-time,Server,21.3,100052
+5862,Minimum,2023-10-07,7,Left,full-time,Server,37.4,108592
+5600,Competitive,2022-04-27,7,Left,full-time,Server,38.0,106028
+6016,Competitive,2022-10-28,7,Left,full-time,Server,36.9,110067
+5360,Competitive,2024-03-27,7,Left,full-time,Server,38.4,103794
+5330,Premium,2023-02-03,7,Left,part-time,Server,19.5,103605
+5288,Minimum,2022-03-14,7,Left,part-time,Server,19.1,103137
+5536,Minimum,2022-04-26,7,Left,part-time,Server,19.0,105415
+5081,Premium,2021-10-23,7,Left,full-time,Server,38.2,100933
+5414,Competitive,2021-07-26,7,Left,full-time,Server,37.5,104385
+5066,Minimum,2023-11-11,7,Left,full-time,Server,38.5,100828
+5348,Minimum,2022-06-10,7,Left,full-time,Server,38.9,103721
+5945,Competitive,2025-06-10,7,Left,part-time,Server,19.3,109509
+5682,Competitive,2022-09-19,7,Left,part-time,Server,18.0,106896
+5338,Premium,2022-11-22,7,Left,part-time,Server,20.7,103676
+5049,Minimum,2024-03-28,7,Left,full-time,Server,36.3,100602
+5443,Competitive,2024-03-27,7,Left,full-time,Server,36.9,104612
+5364,Minimum,2023-12-07,7,Left,full-time,Server,36.0,103854
+6020,Minimum,2025-03-29,7,Left,full-time,Server,38.0,110100
+5463,Minimum,2021-11-14,7,Left,part-time,Server,21.3,104751
+5206,Minimum,2024-04-22,7,Fired,part-time,Server,19.4,102198
+5523,Competitive,2024-04-20,7,Left,part-time,Server,20.9,105317
+5089,Competitive,2021-08-12,7,Left,full-time,Server,37.2,101015
+5972,Competitive,2023-03-02,7,Left,full-time,Server,37.1,109809
+5759,Minimum,2021-01-12,7,Left,full-time,Server,37.2,107589
+5768,Competitive,2022-08-17,7,Left,full-time,Server,37.1,107666
+5876,Competitive,2025-08-21,7,Fired,part-time,Server,20.5,108808
+5813,Competitive,2022-06-22,7,Left,part-time,Server,19.0,108094
+5148,Minimum,2023-02-08,7,Left,part-time,Server,20.6,101601
+5153,Minimum,2021-10-29,7,Left,full-time,Server Assistant,34.2,101666
+5371,Competitive,2024-07-12,7,Fired,full-time,Server Assistant,36.5,103980
+5015,Competitive,2023-01-03,7,Left,full-time,Server Assistant,35.2,100136
+5438,Competitive,2024-05-06,7,Left,part-time,Server Assistant,19.0,104564
+6046,Competitive,2023-08-27,7,Left,part-time,Server Assistant,18.0,110306
+5386,Minimum,2023-12-01,7,Fired,part-time,Server Assistant,17.2,104144
+5363,Competitive,2023-03-04,7,Fired,full-time,Server Assistant,33.9,103832
+5535,Minimum,2023-01-30,7,Left,full-time,Server Assistant,33.9,105399
+5353,Competitive,2021-07-07,7,Left,full-time,Server Assistant,36.0,103755
+5375,Minimum,2021-07-07,7,Left,part-time,Server Assistant,17.8,104024
+5878,Competitive,2021-07-13,7,Left,part-time,Server Assistant,16.2,108838
+5730,Competitive,2023-05-01,7,Left,part-time,Server Assistant,16.4,107314
+5267,Competitive,2021-03-17,7,Left,full-time,Server Assistant,33.8,102859
+5826,Competitive,2021-02-22,7,Left,full-time,Server Assistant,35.5,108207
+5176,Competitive,2025-02-21,7,Left,full-time,Server Assistant,35.3,101948
+5350,Competitive,2022-08-02,7,Left,part-time,Server Assistant,16.0,103731
+5525,Premium,2025-07-17,7,Left,part-time,Server Assistant,17.7,105325
+5987,Competitive,2021-02-27,7,Left,part-time,Server Assistant,15.6,109922
+5670,Competitive,2025-08-26,7,Left,full-time,Server Assistant,35.4,106799
+5873,Competitive,2022-05-21,7,Left,full-time,Server Assistant,33.9,108749
+5959,Competitive,2025-03-12,7,Left,full-time,Server Assistant,35.6,109650
+5962,Competitive,2024-02-02,7,Left,part-time,Server Assistant,19.1,109684
+5816,Competitive,2023-02-04,7,Left,part-time,Server Assistant,20.1,108126
+5673,Minimum,2024-04-14,7,Left,part-time,Server Assistant,19.2,106833
+5073,Premium,2025-03-15,7,Left,full-time,Server Assistant,37.2,100885
+5120,Premium,2024-08-10,7,Fired,full-time,Server Assistant,35.1,101289
+5416,Minimum,2024-08-08,7,Left,full-time,Server Assistant,36.6,104394
+5005,Premium,2025-02-09,7,Left,part-time,Server Assistant,20.1,100034
+5547,Minimum,2021-11-09,7,Left,part-time,Server Assistant,18.3,105567
+5327,Competitive,2024-04-13,7,Left,part-time,Server Assistant,18.3,103570
+6042,Competitive,2023-01-24,7,Left,full-time,Server Assistant,35.3,110283
+5799,Competitive,2023-05-06,7,Left,full-time,Server Assistant,34.7,107970
+5562,Competitive,2021-07-12,7,Left,full-time,Server Assistant,34.7,105673
+5460,Minimum,2021-06-13,7,Left,part-time,Server Assistant,18.6,104741
+5020,Competitive,2025-03-03,7,Left,part-time,Server Assistant,19.2,100177
+5838,Minimum,2025-01-28,7,Left,part-time,Server Assistant,18.3,108367
+5779,Minimum,2023-10-23,7,Left,full-time,Server Assistant,34.6,107811
+5207,Minimum,2025-07-23,7,Fired,full-time,Server Assistant,35.8,102207
+5184,Premium,2022-01-09,7,Fired,full-time,Server Assistant,34.5,101994
+5540,Competitive,2024-06-11,7,Fired,part-time,Server Assistant,20.1,105486
+5062,Competitive,2024-07-15,7,Left,part-time,Server Assistant,18.9,100771
+5306,Minimum,2023-12-28,7,Left,part-time,Server Assistant,17.5,103382
+5147,Minimum,2022-11-30,7,Left,full-time,Server Assistant,34.2,101595
+5650,Premium,2024-05-27,7,Left,full-time,Server Assistant,33.9,106563
+5301,Competitive,2022-06-02,7,Left,full-time,Server Assistant,36.5,103319
+5519,Premium,2024-02-10,7,Left,part-time,Server Assistant,21.2,105264
+5773,Competitive,2024-09-29,7,Fired,full-time,Host,34.9,107768
+5777,Competitive,2023-10-17,7,Fired,part-time,Host,13.9,107788
+5323,Competitive,2024-07-03,7,Left,full-time,Host,31.5,103540
+6031,Minimum,2021-05-20,7,Left,part-time,Host,16.9,110209
+5465,Premium,2022-01-25,7,Left,full-time,Host,32.6,104791
+5871,Premium,2022-02-16,7,Left,part-time,Host,14.5,108737
+5788,Premium,2022-09-24,7,Fired,full-time,Host,31.7,107854
+5033,Minimum,2025-09-17,7,Left,part-time,Host,16.1,100354
+5382,Competitive,2025-10-26,7,Left,full-time,Host,32.6,104128
+5943,Competitive,2021-01-23,7,Left,part-time,Host,15.3,109497
+5620,Competitive,2023-05-07,7,Left,full-time,Host,30.9,106252
+5024,Competitive,2022-09-30,7,Fired,part-time,Host,12.7,100215
+5243,Minimum,2023-03-31,7,Fired,full-time,Host,34.1,102576
+5750,Minimum,2024-10-31,7,Left,part-time,Host,14.4,107486

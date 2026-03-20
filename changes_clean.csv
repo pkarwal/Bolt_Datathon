@@ -1,0 +1,1166 @@
+EmployeeID,New Role,DateChanged,ReasonForLeaving,emp_id,new_role,is_exit,is_promotion
+5000,Quit,2024-10-07,Poor Management,5000,Quit,1,0
+5001,Quit,2025-02-01,Better Offer,5001,Quit,1,0
+5002,Quit,2022-06-25,Lack of Growth,5002,Quit,1,0
+5003,Quit,2025-11-05,Poor Management,5003,Quit,1,0
+5005,Quit,2025-03-21,Lack of Growth,5005,Quit,1,0
+5006,Quit,2023-06-11,Insufficient Wages,5006,Quit,1,0
+5007,Quit,2025-05-26,Better Offer,5007,Quit,1,0
+5008,Quit,2022-03-24,Lack of Growth,5008,Quit,1,0
+5009,Quit,2022-07-20,Lack of Growth,5009,Quit,1,0
+5010,Quit,2022-05-17,Burntout,5010,Quit,1,0
+5011,Quit,2025-12-27,Better Offer,5011,Quit,1,0
+5013,Dismissed,2023-10-17,Performance,5013,Dismissed,1,0
+5014,Quit,2023-07-30,Better Offer,5014,Quit,1,0
+5015,Quit,2023-04-03,Poor Management,5015,Quit,1,0
+5016,Quit,2021-06-05,Better Offer,5016,Quit,1,0
+5017,Dismissed,2021-12-04,Attendance,5017,Dismissed,1,0
+5018,Dismissed,2025-07-19,Attendance,5018,Dismissed,1,0
+5019,Quit,2023-02-27,Poor Management,5019,Quit,1,0
+5020,Quit,2025-03-30,Poor Management,5020,Quit,1,0
+5021,Quit,2022-12-21,Lack of Growth,5021,Quit,1,0
+5022,Quit,2025-09-12,Better Offer,5022,Quit,1,0
+5023,Quit,2021-12-06,Better Offer,5023,Quit,1,0
+5024,Dismissed,2022-09-30,Attendance,5024,Dismissed,1,0
+5026,Quit,2024-06-04,Lack of Growth,5026,Quit,1,0
+5027,Bartender,2023-09-11,,5027,Bartender,0,1
+5027,Quit,2025-02-20,Better Offer,5027,Quit,1,0
+5028,Quit,2023-10-31,Poor Management,5028,Quit,1,0
+5029,Dismissed,2021-07-06,Performance,5029,Dismissed,1,0
+5030,Quit,2023-02-18,Lack of Growth,5030,Quit,1,0
+5031,Quit,2022-08-21,Burntout,5031,Quit,1,0
+5032,Dismissed,2024-01-03,Performance,5032,Dismissed,1,0
+5033,Quit,2025-09-19,Lack of Growth,5033,Quit,1,0
+5034,Quit,2022-07-21,Lack of Growth,5034,Quit,1,0
+5035,Bartender,2021-10-20,,5035,Bartender,0,1
+5035,Quit,2022-09-09,Burntout,5035,Quit,1,0
+5036,Quit,2023-10-03,Burntout,5036,Quit,1,0
+5037,Quit,2022-10-18,Burntout,5037,Quit,1,0
+5038,Quit,2022-09-29,Insufficient Wages,5038,Quit,1,0
+5039,Dismissed,2025-07-23,Performance,5039,Dismissed,1,0
+5040,Quit,2021-10-10,Lack of Growth,5040,Quit,1,0
+5041,Quit,2024-12-15,Burntout,5041,Quit,1,0
+5042,Quit,2021-08-05,Poor Management,5042,Quit,1,0
+5043,Bartender,2023-05-18,,5043,Bartender,0,1
+5043,Quit,2024-04-27,Poor Management,5043,Quit,1,0
+5046,Server,2025-04-05,,5046,Server,0,1
+5046,Quit,2025-11-04,Relocation,5046,Quit,1,0
+5047,Quit,2024-12-11,Burntout,5047,Quit,1,0
+5048,Quit,2021-05-05,Insufficient Wages,5048,Quit,1,0
+5049,Quit,2024-08-10,Insufficient Wages,5049,Quit,1,0
+5050,Quit,2023-09-06,Burntout,5050,Quit,1,0
+5051,Manager,2024-10-18,,5051,Manager,0,1
+5052,Quit,2021-08-21,Burntout,5052,Quit,1,0
+5053,Quit,2023-09-17,Burntout,5053,Quit,1,0
+5054,Quit,2022-11-12,Better Offer,5054,Quit,1,0
+5055,Dismissed,2025-10-07,Performance,5055,Dismissed,1,0
+5056,Quit,2022-12-21,Poor Management,5056,Quit,1,0
+5057,Quit,2024-02-29,Lack of Growth,5057,Quit,1,0
+5058,Dismissed,2023-01-27,Attendance,5058,Dismissed,1,0
+5059,Bartender,2024-01-16,,5059,Bartender,0,1
+5059,Quit,2024-10-17,Relocation,5059,Quit,1,0
+5060,Quit,2021-07-15,Lack of Growth,5060,Quit,1,0
+5062,Quit,2024-07-30,Burntout,5062,Quit,1,0
+5063,Dismissed,2025-05-21,Policy Violation,5063,Dismissed,1,0
+5064,Quit,2021-07-04,Insufficient Wages,5064,Quit,1,0
+5065,Quit,2023-10-31,Better Offer,5065,Quit,1,0
+5066,Quit,2024-04-09,Poor Management,5066,Quit,1,0
+5067,Quit,2022-02-27,Better Offer,5067,Quit,1,0
+5068,Quit,2021-12-27,Better Offer,5068,Quit,1,0
+5069,Quit,2022-12-13,Insufficient Wages,5069,Quit,1,0
+5070,Quit,2025-06-07,Poor Management,5070,Quit,1,0
+5071,Server Assistant,2022-08-08,,5071,Server Assistant,0,1
+5071,Bartender,2023-02-22,,5071,Bartender,0,1
+5071,Quit,2023-10-20,Better Offer,5071,Quit,1,0
+5072,Server,2022-07-30,,5072,Server,0,1
+5072,Dismissed,2023-05-08,Policy Violation,5072,Dismissed,1,0
+5073,Quit,2025-04-29,Relocation,5073,Quit,1,0
+5074,Quit,2023-03-14,Better Offer,5074,Quit,1,0
+5076,Quit,2024-09-22,Better Offer,5076,Quit,1,0
+5077,Quit,2022-06-18,Better Offer,5077,Quit,1,0
+5078,Quit,2023-08-28,Better Offer,5078,Quit,1,0
+5079,Quit,2022-02-15,Insufficient Wages,5079,Quit,1,0
+5080,Quit,2022-07-17,Better Offer,5080,Quit,1,0
+5081,Quit,2022-03-31,Burntout,5081,Quit,1,0
+5082,Bartender,2024-08-15,,5082,Bartender,0,1
+5082,Quit,2025-12-29,Relocation,5082,Quit,1,0
+5083,Quit,2025-05-23,Lack of Growth,5083,Quit,1,0
+5084,Quit,2024-11-26,Poor Management,5084,Quit,1,0
+5085,Quit,2023-04-18,Insufficient Wages,5085,Quit,1,0
+5086,Dismissed,2021-10-31,Attendance,5086,Dismissed,1,0
+5087,Quit,2023-07-08,Better Offer,5087,Quit,1,0
+5088,Quit,2025-01-14,Burntout,5088,Quit,1,0
+5089,Quit,2021-12-01,Burntout,5089,Quit,1,0
+5090,Bartender,2022-02-09,,5090,Bartender,0,1
+5090,Shift Lead,2023-03-18,,5090,Shift Lead,0,1
+5090,Quit,2023-12-17,Insufficient Wages,5090,Quit,1,0
+5091,Quit,2022-03-22,Lack of Growth,5091,Quit,1,0
+5092,Bartender,2025-04-11,,5092,Bartender,0,1
+5092,Quit,2025-11-15,Poor Management,5092,Quit,1,0
+5093,Quit,2021-12-19,Poor Management,5093,Quit,1,0
+5094,Bartender,2021-09-15,,5094,Bartender,0,1
+5094,Quit,2022-10-13,Lack of Growth,5094,Quit,1,0
+5095,Quit,2024-04-27,Better Offer,5095,Quit,1,0
+5096,Quit,2024-04-01,Burntout,5096,Quit,1,0
+5097,Manager,2025-02-08,,5097,Manager,0,1
+5098,Quit,2024-08-16,Lack of Growth,5098,Quit,1,0
+5100,Quit,2025-12-19,Lack of Growth,5100,Quit,1,0
+5102,Quit,2023-08-10,Burntout,5102,Quit,1,0
+5103,Quit,2022-09-28,Lack of Growth,5103,Quit,1,0
+5104,Quit,2024-09-08,Lack of Growth,5104,Quit,1,0
+5105,Dismissed,2021-03-25,Performance,5105,Dismissed,1,0
+5106,Quit,2024-10-27,Lack of Growth,5106,Quit,1,0
+5108,Dismissed,2024-12-22,Performance,5108,Dismissed,1,0
+5109,Quit,2025-03-03,Lack of Growth,5109,Quit,1,0
+5110,Quit,2024-10-08,Better Offer,5110,Quit,1,0
+5111,Quit,2024-05-17,Burntout,5111,Quit,1,0
+5112,Quit,2023-03-18,Better Offer,5112,Quit,1,0
+5113,Bartender,2023-12-19,,5113,Bartender,0,1
+5113,Quit,2024-10-02,Burntout,5113,Quit,1,0
+5114,Bartender,2022-02-21,,5114,Bartender,0,1
+5114,Shift Lead,2023-02-09,,5114,Shift Lead,0,1
+5114,Dismissed,2024-01-26,Performance,5114,Dismissed,1,0
+5115,Quit,2025-02-12,Burntout,5115,Quit,1,0
+5116,Quit,2023-03-05,Burntout,5116,Quit,1,0
+5117,Quit,2022-12-30,Insufficient Wages,5117,Quit,1,0
+5120,Dismissed,2024-09-23,Performance,5120,Dismissed,1,0
+5121,Quit,2022-08-11,Burntout,5121,Quit,1,0
+5122,Bartender,2022-05-17,,5122,Bartender,0,1
+5122,Quit,2022-11-14,Lack of Growth,5122,Quit,1,0
+5123,Dismissed,2025-02-11,Attendance,5123,Dismissed,1,0
+5124,Quit,2022-09-22,Better Offer,5124,Quit,1,0
+5125,Quit,2023-07-24,Burntout,5125,Quit,1,0
+5126,Quit,2022-03-05,Insufficient Wages,5126,Quit,1,0
+5127,Server,2022-07-13,,5127,Server,0,1
+5127,Quit,2023-02-24,Better Offer,5127,Quit,1,0
+5128,Quit,2025-02-04,Insufficient Wages,5128,Quit,1,0
+5129,Dismissed,2021-02-20,Performance,5129,Dismissed,1,0
+5130,Bartender,2024-06-03,,5130,Bartender,0,1
+5130,Quit,2025-06-05,Better Offer,5130,Quit,1,0
+5131,Quit,2024-06-07,Burntout,5131,Quit,1,0
+5132,Manager,2024-12-25,,5132,Manager,0,1
+5133,Bartender,2022-06-19,,5133,Bartender,0,1
+5133,Dismissed,2023-06-01,Performance,5133,Dismissed,1,0
+5134,Quit,2021-07-17,Lack of Growth,5134,Quit,1,0
+5135,Quit,2024-09-17,Better Offer,5135,Quit,1,0
+5136,Quit,2023-01-18,Better Offer,5136,Quit,1,0
+5139,Quit,2025-04-20,Better Offer,5139,Quit,1,0
+5140,Quit,2024-07-11,Lack of Growth,5140,Quit,1,0
+5141,Quit,2023-01-01,Better Offer,5141,Quit,1,0
+5142,Quit,2024-11-12,Burntout,5142,Quit,1,0
+5144,Quit,2025-04-01,Better Offer,5144,Quit,1,0
+5145,Quit,2022-03-07,Relocation,5145,Quit,1,0
+5146,Dismissed,2023-04-28,Attendance,5146,Dismissed,1,0
+5147,Quit,2022-12-13,Insufficient Wages,5147,Quit,1,0
+5148,Quit,2023-05-18,Better Offer,5148,Quit,1,0
+5149,Dismissed,2023-03-30,Attendance,5149,Dismissed,1,0
+5150,Bartender,2022-02-13,,5150,Bartender,0,1
+5150,Quit,2023-01-09,Insufficient Wages,5150,Quit,1,0
+5151,Bartender,2022-05-21,,5151,Bartender,0,1
+5151,Quit,2022-12-30,Lack of Growth,5151,Quit,1,0
+5152,Quit,2024-08-23,Insufficient Wages,5152,Quit,1,0
+5153,Quit,2022-02-02,Relocation,5153,Quit,1,0
+5154,Quit,2021-09-28,Lack of Growth,5154,Quit,1,0
+5157,Quit,2024-11-10,Insufficient Wages,5157,Quit,1,0
+5158,Quit,2022-11-04,Lack of Growth,5158,Quit,1,0
+5159,Bartender,2022-01-06,,5159,Bartender,0,1
+5159,Quit,2022-09-10,Better Offer,5159,Quit,1,0
+5161,Dismissed,2025-01-20,Performance,5161,Dismissed,1,0
+5162,Quit,2025-10-04,Lack of Growth,5162,Quit,1,0
+5163,Server,2023-03-26,,5163,Server,0,1
+5163,Quit,2023-10-12,Poor Management,5163,Quit,1,0
+5164,Quit,2022-02-02,Lack of Growth,5164,Quit,1,0
+5165,Dismissed,2025-04-01,Attendance,5165,Dismissed,1,0
+5166,Quit,2022-04-24,Better Offer,5166,Quit,1,0
+5167,Quit,2024-03-31,Better Offer,5167,Quit,1,0
+5168,Quit,2021-08-27,Lack of Growth,5168,Quit,1,0
+5169,Quit,2023-04-16,Lack of Growth,5169,Quit,1,0
+5170,Bartender,2021-11-09,,5170,Bartender,0,1
+5170,Quit,2022-11-29,Better Offer,5170,Quit,1,0
+5171,Manager,2025-05-20,,5171,Manager,0,1
+5172,Manager,2025-06-26,,5172,Manager,0,1
+5173,Quit,2024-07-06,Better Offer,5173,Quit,1,0
+5175,Quit,2024-07-19,Relocation,5175,Quit,1,0
+5176,Quit,2025-04-27,Relocation,5176,Quit,1,0
+5177,Quit,2023-06-28,Better Offer,5177,Quit,1,0
+5178,Server,2023-04-28,,5178,Server,0,1
+5178,Bartender,2024-03-28,,5178,Bartender,0,1
+5178,Shift Lead,2024-11-06,,5178,Shift Lead,0,1
+5178,Quit,2025-06-18,Better Offer,5178,Quit,1,0
+5179,Quit,2021-10-05,Better Offer,5179,Quit,1,0
+5180,Quit,2023-01-01,Relocation,5180,Quit,1,0
+5181,Quit,2023-01-29,Poor Management,5181,Quit,1,0
+5182,Server,2024-03-21,,5182,Server,0,1
+5182,Quit,2024-11-05,Better Offer,5182,Quit,1,0
+5183,Dismissed,2022-06-21,Performance,5183,Dismissed,1,0
+5184,Dismissed,2022-01-28,Policy Violation,5184,Dismissed,1,0
+5185,Quit,2022-05-09,Burntout,5185,Quit,1,0
+5186,Bartender,2021-09-22,,5186,Bartender,0,1
+5186,Quit,2022-10-28,Burntout,5186,Quit,1,0
+5187,Bartender,2024-06-19,,5187,Bartender,0,1
+5187,Quit,2025-03-14,Insufficient Wages,5187,Quit,1,0
+5188,Quit,2023-10-24,Insufficient Wages,5188,Quit,1,0
+5189,Bartender,2023-09-01,,5189,Bartender,0,1
+5189,Quit,2025-01-10,Poor Management,5189,Quit,1,0
+5190,Dismissed,2024-02-09,Performance,5190,Dismissed,1,0
+5191,Quit,2025-08-15,Insufficient Wages,5191,Quit,1,0
+5192,Quit,2025-08-23,Better Offer,5192,Quit,1,0
+5193,Quit,2023-02-17,Lack of Growth,5193,Quit,1,0
+5194,Dismissed,2025-07-26,Performance,5194,Dismissed,1,0
+5195,Quit,2023-04-20,Relocation,5195,Quit,1,0
+5196,Dismissed,2024-04-11,Policy Violation,5196,Dismissed,1,0
+5198,Quit,2022-02-13,Better Offer,5198,Quit,1,0
+5200,Dismissed,2025-11-25,Performance,5200,Dismissed,1,0
+5201,Dismissed,2025-11-06,Performance,5201,Dismissed,1,0
+5203,Bartender,2022-07-22,,5203,Bartender,0,1
+5203,Shift Lead,2023-09-20,,5203,Shift Lead,0,1
+5203,Quit,2024-07-29,Lack of Growth,5203,Quit,1,0
+5204,Quit,2024-03-20,Better Offer,5204,Quit,1,0
+5205,Quit,2023-12-17,Lack of Growth,5205,Quit,1,0
+5206,Dismissed,2024-08-16,Performance,5206,Dismissed,1,0
+5207,Dismissed,2025-08-14,Performance,5207,Dismissed,1,0
+5208,Quit,2025-08-31,Better Offer,5208,Quit,1,0
+5209,Bartender,2021-11-15,,5209,Bartender,0,1
+5209,Shift Lead,2022-10-19,,5209,Shift Lead,0,1
+5209,Quit,2024-03-23,Lack of Growth,5209,Quit,1,0
+5211,Quit,2025-03-28,Better Offer,5211,Quit,1,0
+5212,Quit,2022-07-25,Lack of Growth,5212,Quit,1,0
+5213,Quit,2024-03-30,Better Offer,5213,Quit,1,0
+5214,Dismissed,2025-04-28,Performance,5214,Dismissed,1,0
+5215,Bartender,2023-01-20,,5215,Bartender,0,1
+5215,Quit,2023-12-24,Burntout,5215,Quit,1,0
+5216,Quit,2024-05-09,Better Offer,5216,Quit,1,0
+5217,Quit,2025-12-18,Better Offer,5217,Quit,1,0
+5218,Quit,2023-07-12,Better Offer,5218,Quit,1,0
+5219,Dismissed,2022-08-29,Policy Violation,5219,Dismissed,1,0
+5220,Quit,2024-08-18,Lack of Growth,5220,Quit,1,0
+5221,Quit,2023-08-19,Poor Management,5221,Quit,1,0
+5222,Dismissed,2023-09-14,Attendance,5222,Dismissed,1,0
+5223,Quit,2023-03-10,Better Offer,5223,Quit,1,0
+5224,Bartender,2025-02-01,,5224,Bartender,0,1
+5224,Quit,2025-09-17,Insufficient Wages,5224,Quit,1,0
+5225,Bartender,2024-03-14,,5225,Bartender,0,1
+5225,Quit,2025-04-03,Better Offer,5225,Quit,1,0
+5227,Quit,2024-10-05,Better Offer,5227,Quit,1,0
+5228,Quit,2023-08-27,Insufficient Wages,5228,Quit,1,0
+5229,Dismissed,2025-12-31,Performance,5229,Dismissed,1,0
+5230,Dismissed,2024-11-05,Performance,5230,Dismissed,1,0
+5232,Dismissed,2022-12-28,Performance,5232,Dismissed,1,0
+5233,Server,2021-10-13,,5233,Server,0,1
+5233,Dismissed,2022-05-19,Performance,5233,Dismissed,1,0
+5234,Quit,2022-12-20,Better Offer,5234,Quit,1,0
+5235,Quit,2024-06-19,Relocation,5235,Quit,1,0
+5236,Quit,2021-07-26,Lack of Growth,5236,Quit,1,0
+5237,Shift Lead,2024-09-01,,5237,Shift Lead,0,1
+5237,Manager,2025-04-26,,5237,Manager,0,1
+5238,Quit,2025-08-16,Lack of Growth,5238,Quit,1,0
+5239,Quit,2022-03-13,Better Offer,5239,Quit,1,0
+5240,Quit,2024-03-03,Better Offer,5240,Quit,1,0
+5241,Quit,2023-05-17,Poor Management,5241,Quit,1,0
+5242,Quit,2022-09-24,Lack of Growth,5242,Quit,1,0
+5243,Dismissed,2023-03-31,Policy Violation,5243,Dismissed,1,0
+5244,Quit,2022-07-15,Burntout,5244,Quit,1,0
+5245,Quit,2022-12-31,Insufficient Wages,5245,Quit,1,0
+5246,Quit,2023-08-01,Lack of Growth,5246,Quit,1,0
+5247,Dismissed,2023-03-23,Performance,5247,Dismissed,1,0
+5248,Quit,2021-08-07,Poor Management,5248,Quit,1,0
+5249,Manager,2024-12-10,,5249,Manager,0,1
+5250,Quit,2022-08-22,Better Offer,5250,Quit,1,0
+5251,Quit,2025-09-19,Better Offer,5251,Quit,1,0
+5252,Quit,2023-05-02,Better Offer,5252,Quit,1,0
+5254,Server,2023-01-06,,5254,Server,0,1
+5254,Quit,2023-09-28,Better Offer,5254,Quit,1,0
+5256,Quit,2025-11-27,Lack of Growth,5256,Quit,1,0
+5257,Bartender,2023-09-16,,5257,Bartender,0,1
+5257,Dismissed,2024-05-27,Performance,5257,Dismissed,1,0
+5258,Quit,2024-04-25,Burntout,5258,Quit,1,0
+5259,Dismissed,2022-08-11,Performance,5259,Dismissed,1,0
+5260,Quit,2023-01-15,Better Offer,5260,Quit,1,0
+5261,Bartender,2023-05-29,,5261,Bartender,0,1
+5261,Quit,2024-10-30,Better Offer,5261,Quit,1,0
+5262,Quit,2024-03-11,Poor Management,5262,Quit,1,0
+5263,Quit,2023-06-17,Poor Management,5263,Quit,1,0
+5264,Manager,2025-06-06,,5264,Manager,0,1
+5265,Quit,2021-12-08,Insufficient Wages,5265,Quit,1,0
+5266,Quit,2025-01-01,Better Offer,5266,Quit,1,0
+5267,Quit,2021-05-26,Burntout,5267,Quit,1,0
+5268,Quit,2023-10-26,Better Offer,5268,Quit,1,0
+5269,Quit,2021-05-27,Poor Management,5269,Quit,1,0
+5270,Bartender,2024-03-25,,5270,Bartender,0,1
+5270,Quit,2025-09-03,Lack of Growth,5270,Quit,1,0
+5271,Bartender,2022-09-08,,5271,Bartender,0,1
+5271,Shift Lead,2023-07-08,,5271,Shift Lead,0,1
+5271,Quit,2024-12-01,Lack of Growth,5271,Quit,1,0
+5272,Dismissed,2023-12-10,Performance,5272,Dismissed,1,0
+5273,Quit,2023-01-21,Lack of Growth,5273,Quit,1,0
+5274,Quit,2022-02-09,Lack of Growth,5274,Quit,1,0
+5275,Dismissed,2023-05-28,Policy Violation,5275,Dismissed,1,0
+5276,Quit,2022-07-23,Better Offer,5276,Quit,1,0
+5277,Quit,2021-10-12,Lack of Growth,5277,Quit,1,0
+5279,Quit,2025-11-30,Insufficient Wages,5279,Quit,1,0
+5280,Bartender,2022-08-09,,5280,Bartender,0,1
+5280,Quit,2023-11-19,Better Offer,5280,Quit,1,0
+5281,Quit,2024-09-20,Poor Management,5281,Quit,1,0
+5282,Quit,2025-11-13,Better Offer,5282,Quit,1,0
+5284,Quit,2023-05-07,Better Offer,5284,Quit,1,0
+5286,Quit,2022-02-19,Lack of Growth,5286,Quit,1,0
+5287,Quit,2022-09-27,Lack of Growth,5287,Quit,1,0
+5288,Quit,2022-08-27,Lack of Growth,5288,Quit,1,0
+5289,Bartender,2021-06-04,,5289,Bartender,0,1
+5289,Quit,2022-05-10,Poor Management,5289,Quit,1,0
+5290,Quit,2025-02-28,Better Offer,5290,Quit,1,0
+5291,Quit,2021-08-23,Poor Management,5291,Quit,1,0
+5292,Quit,2023-12-24,Lack of Growth,5292,Quit,1,0
+5293,Quit,2024-03-05,Better Offer,5293,Quit,1,0
+5294,Quit,2023-07-09,Burntout,5294,Quit,1,0
+5295,Bartender,2022-06-22,,5295,Bartender,0,1
+5295,Quit,2023-02-15,Lack of Growth,5295,Quit,1,0
+5296,Quit,2022-10-27,Better Offer,5296,Quit,1,0
+5297,Dismissed,2021-09-28,Performance,5297,Dismissed,1,0
+5298,Quit,2022-09-07,Better Offer,5298,Quit,1,0
+5299,Quit,2021-11-06,Better Offer,5299,Quit,1,0
+5300,Quit,2025-10-12,Poor Management,5300,Quit,1,0
+5301,Quit,2022-06-12,Poor Management,5301,Quit,1,0
+5302,Quit,2025-10-28,Burntout,5302,Quit,1,0
+5303,Shift Lead,2024-04-29,,5303,Shift Lead,0,1
+5303,Manager,2025-02-23,,5303,Manager,0,1
+5306,Quit,2024-01-11,Lack of Growth,5306,Quit,1,0
+5307,Quit,2023-04-16,Poor Management,5307,Quit,1,0
+5308,Bartender,2021-08-31,,5308,Bartender,0,1
+5308,Quit,2022-10-31,Relocation,5308,Quit,1,0
+5309,Quit,2024-09-08,Insufficient Wages,5309,Quit,1,0
+5310,Quit,2022-04-19,Relocation,5310,Quit,1,0
+5311,Quit,2025-02-01,Poor Management,5311,Quit,1,0
+5312,Quit,2024-03-08,Better Offer,5312,Quit,1,0
+5313,Dismissed,2024-01-20,Policy Violation,5313,Dismissed,1,0
+5314,Quit,2025-09-22,Insufficient Wages,5314,Quit,1,0
+5315,Quit,2024-02-25,Poor Management,5315,Quit,1,0
+5316,Quit,2025-11-10,Better Offer,5316,Quit,1,0
+5317,Quit,2022-06-30,Better Offer,5317,Quit,1,0
+5318,Quit,2022-02-25,Insufficient Wages,5318,Quit,1,0
+5319,Quit,2024-11-22,Insufficient Wages,5319,Quit,1,0
+5322,Quit,2022-02-15,Lack of Growth,5322,Quit,1,0
+5323,Quit,2024-07-09,Burntout,5323,Quit,1,0
+5324,Quit,2022-06-30,Burntout,5324,Quit,1,0
+5325,Quit,2022-12-21,Better Offer,5325,Quit,1,0
+5326,Manager,2025-05-22,,5326,Manager,0,1
+5327,Quit,2024-05-19,Burntout,5327,Quit,1,0
+5328,Quit,2022-12-19,Lack of Growth,5328,Quit,1,0
+5329,Quit,2022-11-20,Insufficient Wages,5329,Quit,1,0
+5330,Quit,2023-07-24,Better Offer,5330,Quit,1,0
+5331,Quit,2021-12-24,Insufficient Wages,5331,Quit,1,0
+5332,Dismissed,2024-08-08,Attendance,5332,Dismissed,1,0
+5333,Quit,2025-11-19,Better Offer,5333,Quit,1,0
+5334,Quit,2024-11-03,Lack of Growth,5334,Quit,1,0
+5335,Quit,2025-05-29,Burntout,5335,Quit,1,0
+5336,Quit,2022-01-11,Relocation,5336,Quit,1,0
+5337,Quit,2025-09-16,Lack of Growth,5337,Quit,1,0
+5338,Quit,2023-04-09,Insufficient Wages,5338,Quit,1,0
+5339,Quit,2024-08-11,Insufficient Wages,5339,Quit,1,0
+5340,Dismissed,2025-11-23,Performance,5340,Dismissed,1,0
+5341,Quit,2023-09-28,Poor Management,5341,Quit,1,0
+5342,Quit,2025-10-17,Better Offer,5342,Quit,1,0
+5345,Quit,2024-11-03,Poor Management,5345,Quit,1,0
+5346,Dismissed,2024-09-04,Performance,5346,Dismissed,1,0
+5347,Quit,2025-06-23,Poor Management,5347,Quit,1,0
+5348,Quit,2022-11-04,Lack of Growth,5348,Quit,1,0
+5349,Quit,2025-12-13,Lack of Growth,5349,Quit,1,0
+5350,Quit,2022-10-04,Burntout,5350,Quit,1,0
+5353,Quit,2021-09-23,Better Offer,5353,Quit,1,0
+5354,Bartender,2022-11-05,,5354,Bartender,0,1
+5354,Quit,2023-07-08,Insufficient Wages,5354,Quit,1,0
+5355,Quit,2025-10-23,Lack of Growth,5355,Quit,1,0
+5356,Quit,2025-02-17,Better Offer,5356,Quit,1,0
+5357,Quit,2021-09-01,Lack of Growth,5357,Quit,1,0
+5358,Quit,2024-05-15,Relocation,5358,Quit,1,0
+5359,Quit,2021-11-09,Insufficient Wages,5359,Quit,1,0
+5360,Quit,2024-09-18,Burntout,5360,Quit,1,0
+5361,Bartender,2022-10-02,,5361,Bartender,0,1
+5361,Quit,2023-08-13,Lack of Growth,5361,Quit,1,0
+5362,Bartender,2024-01-09,,5362,Bartender,0,1
+5362,Manager,2024-11-08,,5362,Manager,0,1
+5363,Dismissed,2023-05-26,Performance,5363,Dismissed,1,0
+5364,Quit,2024-04-09,Poor Management,5364,Quit,1,0
+5365,Quit,2023-04-09,Lack of Growth,5365,Quit,1,0
+5366,Dismissed,2023-07-25,Attendance,5366,Dismissed,1,0
+5367,Quit,2025-09-16,Better Offer,5367,Quit,1,0
+5368,Bartender,2023-05-24,,5368,Bartender,0,1
+5368,Quit,2024-02-14,Burntout,5368,Quit,1,0
+5369,Bartender,2021-10-17,,5369,Bartender,0,1
+5369,Quit,2022-04-18,Better Offer,5369,Quit,1,0
+5370,Dismissed,2025-02-12,Performance,5370,Dismissed,1,0
+5371,Dismissed,2024-10-14,Policy Violation,5371,Dismissed,1,0
+5372,Bartender,2024-04-14,,5372,Bartender,0,1
+5372,Shift Lead,2024-11-06,,5372,Shift Lead,0,1
+5372,Manager,2025-05-19,,5372,Manager,0,1
+5373,Quit,2022-12-25,Poor Management,5373,Quit,1,0
+5374,Quit,2024-02-21,Poor Management,5374,Quit,1,0
+5375,Quit,2021-09-21,Better Offer,5375,Quit,1,0
+5376,Quit,2022-11-09,Insufficient Wages,5376,Quit,1,0
+5377,Quit,2023-02-22,Insufficient Wages,5377,Quit,1,0
+5378,Quit,2025-10-27,Burntout,5378,Quit,1,0
+5379,Quit,2024-03-24,Lack of Growth,5379,Quit,1,0
+5380,Dismissed,2022-08-28,Performance,5380,Dismissed,1,0
+5381,Bartender,2025-02-02,,5381,Bartender,0,1
+5381,Quit,2025-08-21,Insufficient Wages,5381,Quit,1,0
+5382,Quit,2025-10-28,Burntout,5382,Quit,1,0
+5383,Quit,2022-08-12,Relocation,5383,Quit,1,0
+5384,Quit,2025-01-26,Poor Management,5384,Quit,1,0
+5385,Dismissed,2024-07-14,Performance,5385,Dismissed,1,0
+5386,Dismissed,2024-02-23,Performance,5386,Dismissed,1,0
+5387,Quit,2024-02-25,Better Offer,5387,Quit,1,0
+5388,Server,2023-02-09,,5388,Server,0,1
+5388,Shift Lead,2023-12-27,,5388,Shift Lead,0,1
+5388,Manager,2024-12-24,,5388,Manager,0,1
+5389,Quit,2023-08-21,Burntout,5389,Quit,1,0
+5390,Quit,2025-11-26,Insufficient Wages,5390,Quit,1,0
+5391,Quit,2025-02-26,Relocation,5391,Quit,1,0
+5392,Quit,2024-10-18,Relocation,5392,Quit,1,0
+5393,Quit,2024-12-18,Relocation,5393,Quit,1,0
+5394,Quit,2021-09-14,Lack of Growth,5394,Quit,1,0
+5395,Dismissed,2025-11-29,Performance,5395,Dismissed,1,0
+5396,Manager,2025-06-06,,5396,Manager,0,1
+5397,Server,2023-06-20,,5397,Server,0,1
+5397,Bartender,2024-01-05,,5397,Bartender,0,1
+5397,Dismissed,2025-02-28,Performance,5397,Dismissed,1,0
+5398,Quit,2022-06-16,Better Offer,5398,Quit,1,0
+5399,Quit,2024-08-19,Poor Management,5399,Quit,1,0
+5400,Quit,2024-11-16,Burntout,5400,Quit,1,0
+5401,Bartender,2021-09-16,,5401,Bartender,0,1
+5401,Quit,2022-11-11,Relocation,5401,Quit,1,0
+5402,Quit,2021-05-08,Lack of Growth,5402,Quit,1,0
+5403,Shift Lead,2024-09-16,,5403,Shift Lead,0,1
+5403,Manager,2025-04-20,,5403,Manager,0,1
+5404,Quit,2024-06-21,Better Offer,5404,Quit,1,0
+5405,Quit,2022-08-06,Lack of Growth,5405,Quit,1,0
+5406,Quit,2023-10-30,Poor Management,5406,Quit,1,0
+5407,Quit,2024-02-22,Poor Management,5407,Quit,1,0
+5408,Quit,2022-07-28,Insufficient Wages,5408,Quit,1,0
+5409,Quit,2022-01-27,Poor Management,5409,Quit,1,0
+5410,Quit,2021-05-31,Better Offer,5410,Quit,1,0
+5411,Quit,2022-09-08,Better Offer,5411,Quit,1,0
+5412,Quit,2024-02-10,Better Offer,5412,Quit,1,0
+5414,Quit,2021-12-26,Poor Management,5414,Quit,1,0
+5415,Quit,2025-11-18,Poor Management,5415,Quit,1,0
+5416,Quit,2024-09-19,Insufficient Wages,5416,Quit,1,0
+5417,Quit,2025-03-06,Lack of Growth,5417,Quit,1,0
+5418,Manager,2025-06-23,,5418,Manager,0,1
+5419,Quit,2024-12-15,Better Offer,5419,Quit,1,0
+5420,Bartender,2021-07-18,,5420,Bartender,0,1
+5420,Quit,2022-07-09,Better Offer,5420,Quit,1,0
+5421,Quit,2025-04-11,Poor Management,5421,Quit,1,0
+5422,Dismissed,2021-10-31,Performance,5422,Dismissed,1,0
+5423,Quit,2024-11-05,Insufficient Wages,5423,Quit,1,0
+5424,Quit,2022-06-15,Poor Management,5424,Quit,1,0
+5425,Quit,2021-11-25,Poor Management,5425,Quit,1,0
+5426,Dismissed,2023-04-18,Attendance,5426,Dismissed,1,0
+5427,Dismissed,2025-12-29,Performance,5427,Dismissed,1,0
+5428,Quit,2025-07-29,Poor Management,5428,Quit,1,0
+5429,Quit,2023-11-07,Relocation,5429,Quit,1,0
+5430,Quit,2021-08-02,Burntout,5430,Quit,1,0
+5431,Quit,2021-07-27,Poor Management,5431,Quit,1,0
+5432,Quit,2024-03-05,Burntout,5432,Quit,1,0
+5433,Quit,2025-05-07,Burntout,5433,Quit,1,0
+5434,Quit,2024-01-24,Lack of Growth,5434,Quit,1,0
+5436,Dismissed,2024-09-23,Performance,5436,Dismissed,1,0
+5437,Dismissed,2023-07-21,Attendance,5437,Dismissed,1,0
+5438,Quit,2024-08-02,Burntout,5438,Quit,1,0
+5440,Dismissed,2025-06-25,Performance,5440,Dismissed,1,0
+5441,Quit,2024-05-28,Lack of Growth,5441,Quit,1,0
+5443,Quit,2024-08-03,Poor Management,5443,Quit,1,0
+5444,Quit,2021-09-24,Better Offer,5444,Quit,1,0
+5445,Quit,2025-10-21,Lack of Growth,5445,Quit,1,0
+5446,Quit,2025-03-07,Burntout,5446,Quit,1,0
+5447,Quit,2025-08-25,Lack of Growth,5447,Quit,1,0
+5448,Server,2024-05-18,,5448,Server,0,1
+5448,Shift Lead,2024-11-20,,5448,Shift Lead,0,1
+5448,Manager,2025-05-29,,5448,Manager,0,1
+5449,Quit,2025-12-03,Lack of Growth,5449,Quit,1,0
+5450,Dismissed,2025-01-12,Policy Violation,5450,Dismissed,1,0
+5451,Quit,2025-02-11,Insufficient Wages,5451,Quit,1,0
+5452,Quit,2021-08-07,Lack of Growth,5452,Quit,1,0
+5454,Manager,2024-12-25,,5454,Manager,0,1
+5455,Quit,2023-10-18,Poor Management,5455,Quit,1,0
+5456,Quit,2022-07-15,Burntout,5456,Quit,1,0
+5458,Bartender,2024-08-29,,5458,Bartender,0,1
+5458,Quit,2025-08-06,Insufficient Wages,5458,Quit,1,0
+5459,Quit,2023-08-17,Better Offer,5459,Quit,1,0
+5460,Quit,2021-07-11,Insufficient Wages,5460,Quit,1,0
+5461,Quit,2023-06-04,Better Offer,5461,Quit,1,0
+5462,Quit,2024-04-21,Insufficient Wages,5462,Quit,1,0
+5463,Quit,2022-03-11,Insufficient Wages,5463,Quit,1,0
+5464,Bartender,2024-02-11,,5464,Bartender,0,1
+5464,Quit,2025-01-18,Lack of Growth,5464,Quit,1,0
+5465,Quit,2022-01-29,Burntout,5465,Quit,1,0
+5467,Quit,2022-04-10,Insufficient Wages,5467,Quit,1,0
+5468,Bartender,2024-02-14,,5468,Bartender,0,1
+5468,Quit,2024-11-29,Insufficient Wages,5468,Quit,1,0
+5469,Quit,2025-09-28,Lack of Growth,5469,Quit,1,0
+5470,Quit,2023-02-04,Better Offer,5470,Quit,1,0
+5471,Dismissed,2025-07-30,Performance,5471,Dismissed,1,0
+5472,Dismissed,2021-12-29,Policy Violation,5472,Dismissed,1,0
+5473,Quit,2023-09-25,Better Offer,5473,Quit,1,0
+5474,Quit,2024-05-27,Relocation,5474,Quit,1,0
+5475,Dismissed,2021-12-23,Performance,5475,Dismissed,1,0
+5476,Dismissed,2022-04-02,Performance,5476,Dismissed,1,0
+5477,Quit,2025-09-06,Better Offer,5477,Quit,1,0
+5478,Dismissed,2024-08-31,Performance,5478,Dismissed,1,0
+5479,Bartender,2021-06-04,,5479,Bartender,0,1
+5479,Dismissed,2022-09-25,Performance,5479,Dismissed,1,0
+5480,Quit,2022-01-19,Better Offer,5480,Quit,1,0
+5481,Quit,2023-09-02,Better Offer,5481,Quit,1,0
+5482,Server,2022-03-03,,5482,Server,0,1
+5482,Quit,2022-12-01,Better Offer,5482,Quit,1,0
+5483,Quit,2021-09-18,Poor Management,5483,Quit,1,0
+5484,Dismissed,2024-02-20,Performance,5484,Dismissed,1,0
+5485,Quit,2022-07-13,Burntout,5485,Quit,1,0
+5486,Quit,2023-07-10,Insufficient Wages,5486,Quit,1,0
+5487,Quit,2025-12-24,Better Offer,5487,Quit,1,0
+5488,Quit,2021-07-13,Poor Management,5488,Quit,1,0
+5490,Quit,2024-05-28,Lack of Growth,5490,Quit,1,0
+5491,Quit,2024-11-28,Lack of Growth,5491,Quit,1,0
+5493,Dismissed,2025-08-07,Performance,5493,Dismissed,1,0
+5494,Quit,2021-02-18,Burntout,5494,Quit,1,0
+5495,Dismissed,2024-10-06,Policy Violation,5495,Dismissed,1,0
+5496,Bartender,2023-08-24,,5496,Bartender,0,1
+5496,Dismissed,2024-06-13,Attendance,5496,Dismissed,1,0
+5497,Quit,2022-01-22,Poor Management,5497,Quit,1,0
+5498,Quit,2023-04-06,Better Offer,5498,Quit,1,0
+5499,Quit,2023-06-10,Lack of Growth,5499,Quit,1,0
+5500,Quit,2021-08-26,Poor Management,5500,Quit,1,0
+5501,Quit,2022-08-18,Burntout,5501,Quit,1,0
+5502,Quit,2023-10-09,Insufficient Wages,5502,Quit,1,0
+5503,Quit,2021-04-07,Lack of Growth,5503,Quit,1,0
+5504,Quit,2025-10-18,Lack of Growth,5504,Quit,1,0
+5505,Dismissed,2022-10-18,Attendance,5505,Dismissed,1,0
+5506,Dismissed,2025-07-27,Performance,5506,Dismissed,1,0
+5507,Quit,2023-01-08,Better Offer,5507,Quit,1,0
+5508,Quit,2025-01-07,Poor Management,5508,Quit,1,0
+5509,Quit,2025-02-22,Poor Management,5509,Quit,1,0
+5510,Quit,2022-12-12,Lack of Growth,5510,Quit,1,0
+5511,Quit,2025-06-25,Better Offer,5511,Quit,1,0
+5512,Quit,2025-05-27,Poor Management,5512,Quit,1,0
+5513,Quit,2024-01-02,Poor Management,5513,Quit,1,0
+5514,Quit,2022-03-15,Poor Management,5514,Quit,1,0
+5515,Quit,2025-10-30,Lack of Growth,5515,Quit,1,0
+5516,Quit,2025-09-06,Burntout,5516,Quit,1,0
+5517,Dismissed,2024-03-18,Performance,5517,Dismissed,1,0
+5518,Quit,2024-09-13,Lack of Growth,5518,Quit,1,0
+5519,Quit,2024-02-19,Better Offer,5519,Quit,1,0
+5520,Quit,2022-11-21,Relocation,5520,Quit,1,0
+5521,Quit,2024-12-31,Poor Management,5521,Quit,1,0
+5522,Shift Lead,2024-10-20,,5522,Shift Lead,0,1
+5522,Manager,2025-05-09,,5522,Manager,0,1
+5523,Quit,2024-08-11,Lack of Growth,5523,Quit,1,0
+5524,Quit,2022-04-02,Burntout,5524,Quit,1,0
+5525,Quit,2025-09-17,Lack of Growth,5525,Quit,1,0
+5526,Quit,2023-09-27,Burntout,5526,Quit,1,0
+5529,Quit,2022-01-09,Better Offer,5529,Quit,1,0
+5530,Quit,2022-04-09,Lack of Growth,5530,Quit,1,0
+5531,Quit,2024-01-27,Burntout,5531,Quit,1,0
+5532,Dismissed,2023-09-14,Attendance,5532,Dismissed,1,0
+5534,Server,2022-03-03,,5534,Server,0,1
+5534,Bartender,2022-09-22,,5534,Bartender,0,1
+5534,Shift Lead,2023-05-21,,5534,Shift Lead,0,1
+5534,Quit,2024-02-28,Relocation,5534,Quit,1,0
+5535,Quit,2023-04-21,Better Offer,5535,Quit,1,0
+5536,Quit,2022-10-06,Better Offer,5536,Quit,1,0
+5537,Dismissed,2024-07-09,Performance,5537,Dismissed,1,0
+5538,Quit,2023-01-14,Insufficient Wages,5538,Quit,1,0
+5539,Quit,2025-02-14,Insufficient Wages,5539,Quit,1,0
+5540,Dismissed,2024-06-28,Attendance,5540,Dismissed,1,0
+5541,Bartender,2023-10-16,,5541,Bartender,0,1
+5541,Quit,2025-03-18,Insufficient Wages,5541,Quit,1,0
+5543,Bartender,2023-12-24,,5543,Bartender,0,1
+5543,Quit,2024-09-10,Burntout,5543,Quit,1,0
+5545,Quit,2025-11-04,Burntout,5545,Quit,1,0
+5546,Dismissed,2024-05-30,Policy Violation,5546,Dismissed,1,0
+5547,Quit,2021-12-18,Insufficient Wages,5547,Quit,1,0
+5548,Quit,2023-06-26,Burntout,5548,Quit,1,0
+5549,Bartender,2022-11-16,,5549,Bartender,0,1
+5549,Quit,2024-03-16,Relocation,5549,Quit,1,0
+5550,Dismissed,2024-05-12,Attendance,5550,Dismissed,1,0
+5551,Manager,2024-12-26,,5551,Manager,0,1
+5552,Manager,2025-02-01,,5552,Manager,0,1
+5553,Server,2022-10-20,,5553,Server,0,1
+5553,Quit,2023-05-14,Better Offer,5553,Quit,1,0
+5554,Quit,2025-08-29,Better Offer,5554,Quit,1,0
+5555,Server,2024-11-03,,5555,Server,0,1
+5555,Quit,2025-05-02,Better Offer,5555,Quit,1,0
+5556,Bartender,2022-07-30,,5556,Bartender,0,1
+5556,Quit,2023-03-10,Insufficient Wages,5556,Quit,1,0
+5557,Manager,2025-01-24,,5557,Manager,0,1
+5558,Dismissed,2024-09-18,Attendance,5558,Dismissed,1,0
+5559,Bartender,2021-09-09,,5559,Bartender,0,1
+5559,Quit,2022-07-08,Insufficient Wages,5559,Quit,1,0
+5560,Quit,2023-03-31,Burntout,5560,Quit,1,0
+5561,Quit,2025-09-13,Insufficient Wages,5561,Quit,1,0
+5562,Quit,2021-08-11,Poor Management,5562,Quit,1,0
+5563,Dismissed,2025-02-28,Policy Violation,5563,Dismissed,1,0
+5564,Bartender,2023-04-03,,5564,Bartender,0,1
+5564,Shift Lead,2024-08-24,,5564,Shift Lead,0,1
+5564,Quit,2025-06-09,Lack of Growth,5564,Quit,1,0
+5565,Quit,2022-02-22,Better Offer,5565,Quit,1,0
+5566,Quit,2022-08-04,Better Offer,5566,Quit,1,0
+5567,Quit,2023-02-23,Relocation,5567,Quit,1,0
+5568,Quit,2022-05-01,Lack of Growth,5568,Quit,1,0
+5570,Quit,2024-01-27,Insufficient Wages,5570,Quit,1,0
+5571,Quit,2022-10-15,Insufficient Wages,5571,Quit,1,0
+5572,Manager,2025-03-16,,5572,Manager,0,1
+5573,Quit,2022-10-20,Burntout,5573,Quit,1,0
+5574,Quit,2025-05-18,Better Offer,5574,Quit,1,0
+5575,Quit,2025-06-24,Better Offer,5575,Quit,1,0
+5576,Quit,2024-04-07,Poor Management,5576,Quit,1,0
+5577,Bartender,2024-06-22,,5577,Bartender,0,1
+5577,Quit,2025-08-22,Better Offer,5577,Quit,1,0
+5578,Quit,2023-09-05,Better Offer,5578,Quit,1,0
+5579,Bartender,2024-04-06,,5579,Bartender,0,1
+5579,Quit,2024-10-10,Relocation,5579,Quit,1,0
+5580,Quit,2024-07-01,Better Offer,5580,Quit,1,0
+5581,Quit,2024-04-19,Lack of Growth,5581,Quit,1,0
+5584,Quit,2021-01-27,Better Offer,5584,Quit,1,0
+5585,Quit,2023-07-27,Poor Management,5585,Quit,1,0
+5586,Dismissed,2022-06-11,Attendance,5586,Dismissed,1,0
+5587,Quit,2022-03-02,Insufficient Wages,5587,Quit,1,0
+5589,Dismissed,2023-11-29,Performance,5589,Dismissed,1,0
+5590,Quit,2021-09-29,Lack of Growth,5590,Quit,1,0
+5592,Quit,2025-07-03,Burntout,5592,Quit,1,0
+5593,Dismissed,2024-10-29,Policy Violation,5593,Dismissed,1,0
+5594,Quit,2022-12-01,Insufficient Wages,5594,Quit,1,0
+5595,Dismissed,2022-06-30,Attendance,5595,Dismissed,1,0
+5596,Quit,2021-08-26,Lack of Growth,5596,Quit,1,0
+5597,Quit,2023-07-21,Relocation,5597,Quit,1,0
+5598,Bartender,2023-03-28,,5598,Bartender,0,1
+5598,Dismissed,2024-03-31,Performance,5598,Dismissed,1,0
+5599,Quit,2021-09-26,Burntout,5599,Quit,1,0
+5600,Quit,2022-10-26,Better Offer,5600,Quit,1,0
+5601,Quit,2024-05-06,Better Offer,5601,Quit,1,0
+5602,Quit,2024-12-06,Insufficient Wages,5602,Quit,1,0
+5604,Quit,2024-04-15,Insufficient Wages,5604,Quit,1,0
+5605,Quit,2025-02-02,Better Offer,5605,Quit,1,0
+5606,Quit,2022-01-24,Better Offer,5606,Quit,1,0
+5607,Bartender,2024-07-28,,5607,Bartender,0,1
+5607,Quit,2025-07-01,Better Offer,5607,Quit,1,0
+5608,Dismissed,2025-01-20,Attendance,5608,Dismissed,1,0
+5609,Quit,2021-09-07,Better Offer,5609,Quit,1,0
+5610,Quit,2025-07-06,Poor Management,5610,Quit,1,0
+5611,Quit,2023-10-31,Better Offer,5611,Quit,1,0
+5612,Quit,2023-01-28,Better Offer,5612,Quit,1,0
+5613,Quit,2022-06-21,Burntout,5613,Quit,1,0
+5615,Quit,2025-07-17,Insufficient Wages,5615,Quit,1,0
+5616,Quit,2024-04-01,Relocation,5616,Quit,1,0
+5617,Quit,2022-01-19,Better Offer,5617,Quit,1,0
+5618,Quit,2025-01-05,Insufficient Wages,5618,Quit,1,0
+5619,Quit,2023-03-27,Better Offer,5619,Quit,1,0
+5620,Quit,2023-05-08,Insufficient Wages,5620,Quit,1,0
+5621,Quit,2022-04-02,Burntout,5621,Quit,1,0
+5622,Quit,2023-08-31,Poor Management,5622,Quit,1,0
+5623,Quit,2024-05-04,Burntout,5623,Quit,1,0
+5624,Bartender,2022-11-11,,5624,Bartender,0,1
+5624,Quit,2023-10-01,Insufficient Wages,5624,Quit,1,0
+5625,Quit,2024-05-13,Insufficient Wages,5625,Quit,1,0
+5626,Quit,2025-01-25,Insufficient Wages,5626,Quit,1,0
+5627,Quit,2025-06-24,Insufficient Wages,5627,Quit,1,0
+5628,Quit,2025-07-17,Insufficient Wages,5628,Quit,1,0
+5631,Server,2023-09-19,,5631,Server,0,1
+5631,Shift Lead,2025-01-06,,5631,Shift Lead,0,1
+5631,Quit,2025-10-20,Better Offer,5631,Quit,1,0
+5632,Dismissed,2023-10-18,Performance,5632,Dismissed,1,0
+5633,Quit,2025-03-29,Insufficient Wages,5633,Quit,1,0
+5634,Quit,2023-12-24,Relocation,5634,Quit,1,0
+5635,Quit,2024-11-01,Lack of Growth,5635,Quit,1,0
+5636,Bartender,2021-12-15,,5636,Bartender,0,1
+5636,Quit,2022-07-30,Insufficient Wages,5636,Quit,1,0
+5637,Quit,2023-05-30,Lack of Growth,5637,Quit,1,0
+5638,Quit,2022-02-02,Better Offer,5638,Quit,1,0
+5639,Bartender,2023-02-18,,5639,Bartender,0,1
+5639,Quit,2023-11-07,Relocation,5639,Quit,1,0
+5640,Dismissed,2022-06-25,Policy Violation,5640,Dismissed,1,0
+5641,Dismissed,2021-12-31,Performance,5641,Dismissed,1,0
+5642,Quit,2025-03-15,Burntout,5642,Quit,1,0
+5643,Quit,2024-01-13,Lack of Growth,5643,Quit,1,0
+5644,Quit,2024-06-08,Lack of Growth,5644,Quit,1,0
+5645,Quit,2023-10-20,Lack of Growth,5645,Quit,1,0
+5646,Quit,2024-06-27,Better Offer,5646,Quit,1,0
+5647,Quit,2024-01-31,Better Offer,5647,Quit,1,0
+5648,Quit,2022-10-16,Better Offer,5648,Quit,1,0
+5649,Quit,2022-08-10,Insufficient Wages,5649,Quit,1,0
+5650,Quit,2024-06-07,Relocation,5650,Quit,1,0
+5651,Quit,2024-05-29,Burntout,5651,Quit,1,0
+5652,Server,2022-06-01,,5652,Server,0,1
+5652,Shift Lead,2022-12-14,,5652,Shift Lead,0,1
+5652,Quit,2023-10-23,Lack of Growth,5652,Quit,1,0
+5653,Quit,2025-01-24,Poor Management,5653,Quit,1,0
+5654,Quit,2021-09-19,Better Offer,5654,Quit,1,0
+5655,Manager,2025-02-14,,5655,Manager,0,1
+5656,Quit,2022-03-13,Better Offer,5656,Quit,1,0
+5657,Bartender,2022-01-24,,5657,Bartender,0,1
+5657,Quit,2022-12-11,Better Offer,5657,Quit,1,0
+5658,Quit,2024-07-20,Insufficient Wages,5658,Quit,1,0
+5659,Quit,2024-03-12,Burntout,5659,Quit,1,0
+5660,Quit,2025-01-19,Burntout,5660,Quit,1,0
+5661,Bartender,2024-09-29,,5661,Bartender,0,1
+5661,Quit,2025-08-09,Lack of Growth,5661,Quit,1,0
+5662,Quit,2024-02-21,Lack of Growth,5662,Quit,1,0
+5663,Quit,2024-06-30,Better Offer,5663,Quit,1,0
+5664,Quit,2021-08-09,Lack of Growth,5664,Quit,1,0
+5666,Quit,2024-01-09,Lack of Growth,5666,Quit,1,0
+5667,Quit,2021-07-18,Poor Management,5667,Quit,1,0
+5668,Server,2022-06-14,,5668,Server,0,1
+5668,Bartender,2023-06-01,,5668,Bartender,0,1
+5668,Quit,2024-04-03,Relocation,5668,Quit,1,0
+5670,Quit,2025-10-22,Poor Management,5670,Quit,1,0
+5671,Quit,2025-06-07,Better Offer,5671,Quit,1,0
+5672,Bartender,2023-02-18,,5672,Bartender,0,1
+5672,Quit,2024-06-30,Burntout,5672,Quit,1,0
+5673,Quit,2024-05-31,Poor Management,5673,Quit,1,0
+5674,Quit,2021-08-31,Burntout,5674,Quit,1,0
+5675,Quit,2025-01-01,Poor Management,5675,Quit,1,0
+5676,Quit,2025-12-15,Poor Management,5676,Quit,1,0
+5677,Quit,2024-03-18,Burntout,5677,Quit,1,0
+5678,Quit,2021-01-21,Better Offer,5678,Quit,1,0
+5679,Quit,2024-05-22,Better Offer,5679,Quit,1,0
+5680,Shift Lead,2025-05-27,,5680,Shift Lead,0,1
+5681,Quit,2024-11-27,Relocation,5681,Quit,1,0
+5682,Quit,2023-02-07,Better Offer,5682,Quit,1,0
+5683,Quit,2023-10-29,Better Offer,5683,Quit,1,0
+5684,Bartender,2021-04-16,,5684,Bartender,0,1
+5684,Quit,2021-12-28,Better Offer,5684,Quit,1,0
+5685,Quit,2021-08-28,Poor Management,5685,Quit,1,0
+5686,Server,2023-12-23,,5686,Server,0,1
+5686,Quit,2024-06-28,Lack of Growth,5686,Quit,1,0
+5687,Quit,2023-12-28,Better Offer,5687,Quit,1,0
+5688,Quit,2024-11-13,Poor Management,5688,Quit,1,0
+5689,Quit,2025-03-21,Lack of Growth,5689,Quit,1,0
+5690,Quit,2023-11-04,Burntout,5690,Quit,1,0
+5691,Quit,2022-09-24,Insufficient Wages,5691,Quit,1,0
+5692,Quit,2021-04-22,Burntout,5692,Quit,1,0
+5693,Bartender,2023-01-24,,5693,Bartender,0,1
+5693,Quit,2024-05-08,Better Offer,5693,Quit,1,0
+5694,Quit,2021-10-19,Better Offer,5694,Quit,1,0
+5695,Quit,2022-08-23,Lack of Growth,5695,Quit,1,0
+5696,Quit,2023-01-23,Better Offer,5696,Quit,1,0
+5697,Server Assistant,2024-05-26,,5697,Server Assistant,0,1
+5697,Bartender,2025-02-19,,5697,Bartender,0,1
+5697,Quit,2025-09-06,Better Offer,5697,Quit,1,0
+5698,Quit,2022-10-26,Burntout,5698,Quit,1,0
+5699,Quit,2023-03-26,Lack of Growth,5699,Quit,1,0
+5700,Quit,2022-10-25,Insufficient Wages,5700,Quit,1,0
+5701,Quit,2025-09-04,Insufficient Wages,5701,Quit,1,0
+5702,Quit,2024-05-30,Lack of Growth,5702,Quit,1,0
+5703,Quit,2025-09-22,Burntout,5703,Quit,1,0
+5705,Bartender,2022-03-19,,5705,Bartender,0,1
+5705,Quit,2022-12-10,Relocation,5705,Quit,1,0
+5706,Quit,2025-11-08,Better Offer,5706,Quit,1,0
+5707,Bartender,2024-09-26,,5707,Bartender,0,1
+5707,Quit,2025-05-19,Better Offer,5707,Quit,1,0
+5708,Bartender,2022-06-14,,5708,Bartender,0,1
+5708,Quit,2023-04-22,Poor Management,5708,Quit,1,0
+5709,Quit,2021-07-15,Better Offer,5709,Quit,1,0
+5712,Quit,2025-02-02,Lack of Growth,5712,Quit,1,0
+5713,Quit,2023-02-02,Better Offer,5713,Quit,1,0
+5714,Quit,2023-12-17,Burntout,5714,Quit,1,0
+5715,Dismissed,2023-02-13,Policy Violation,5715,Dismissed,1,0
+5716,Bartender,2021-09-03,,5716,Bartender,0,1
+5716,Quit,2022-09-17,Burntout,5716,Quit,1,0
+5718,Quit,2023-10-26,Burntout,5718,Quit,1,0
+5719,Dismissed,2024-08-24,Performance,5719,Dismissed,1,0
+5720,Dismissed,2023-06-17,Performance,5720,Dismissed,1,0
+5721,Quit,2025-03-14,Better Offer,5721,Quit,1,0
+5722,Quit,2024-01-10,Lack of Growth,5722,Quit,1,0
+5724,Quit,2021-02-23,Burntout,5724,Quit,1,0
+5725,Quit,2022-09-03,Burntout,5725,Quit,1,0
+5726,Server,2024-04-20,,5726,Server,0,1
+5726,Quit,2024-10-23,Insufficient Wages,5726,Quit,1,0
+5727,Quit,2023-02-23,Poor Management,5727,Quit,1,0
+5728,Quit,2023-12-21,Relocation,5728,Quit,1,0
+5729,Quit,2021-04-28,Better Offer,5729,Quit,1,0
+5730,Quit,2023-07-13,Lack of Growth,5730,Quit,1,0
+5731,Dismissed,2024-01-27,Performance,5731,Dismissed,1,0
+5732,Bartender,2024-01-12,,5732,Bartender,0,1
+5732,Quit,2024-11-05,Burntout,5732,Quit,1,0
+5733,Quit,2021-09-17,Better Offer,5733,Quit,1,0
+5734,Quit,2023-01-09,Better Offer,5734,Quit,1,0
+5735,Quit,2021-01-19,Poor Management,5735,Quit,1,0
+5736,Quit,2023-04-02,Poor Management,5736,Quit,1,0
+5737,Quit,2023-09-14,Relocation,5737,Quit,1,0
+5738,Quit,2024-05-24,Poor Management,5738,Quit,1,0
+5739,Quit,2022-01-02,Insufficient Wages,5739,Quit,1,0
+5740,Quit,2023-03-10,Lack of Growth,5740,Quit,1,0
+5741,Quit,2025-03-09,Lack of Growth,5741,Quit,1,0
+5742,Quit,2021-12-27,Poor Management,5742,Quit,1,0
+5743,Quit,2021-11-23,Poor Management,5743,Quit,1,0
+5744,Manager,2025-02-19,,5744,Manager,0,1
+5745,Dismissed,2023-05-18,Performance,5745,Dismissed,1,0
+5746,Quit,2025-11-22,Insufficient Wages,5746,Quit,1,0
+5749,Bartender,2023-04-26,,5749,Bartender,0,1
+5749,Quit,2024-02-16,Lack of Growth,5749,Quit,1,0
+5750,Quit,2024-10-31,Insufficient Wages,5750,Quit,1,0
+5751,Bartender,2024-07-27,,5751,Bartender,0,1
+5751,Quit,2025-04-07,Burntout,5751,Quit,1,0
+5752,Server,2022-02-24,,5752,Server,0,1
+5752,Bartender,2022-08-28,,5752,Bartender,0,1
+5752,Quit,2023-02-27,Better Offer,5752,Quit,1,0
+5753,Quit,2024-10-27,Better Offer,5753,Quit,1,0
+5754,Quit,2025-08-14,Burntout,5754,Quit,1,0
+5755,Quit,2025-04-24,Better Offer,5755,Quit,1,0
+5756,Bartender,2022-03-07,,5756,Bartender,0,1
+5756,Shift Lead,2023-07-01,,5756,Shift Lead,0,1
+5756,Quit,2024-07-21,Poor Management,5756,Quit,1,0
+5757,Dismissed,2025-03-26,Attendance,5757,Dismissed,1,0
+5758,Dismissed,2022-05-28,Policy Violation,5758,Dismissed,1,0
+5759,Quit,2021-04-28,Burntout,5759,Quit,1,0
+5760,Dismissed,2024-08-21,Performance,5760,Dismissed,1,0
+5761,Quit,2025-01-13,Better Offer,5761,Quit,1,0
+5762,Quit,2025-06-30,Poor Management,5762,Quit,1,0
+5763,Quit,2024-12-19,Poor Management,5763,Quit,1,0
+5764,Server Assistant,2023-03-15,,5764,Server Assistant,0,1
+5764,Bartender,2023-09-14,,5764,Bartender,0,1
+5764,Manager,2024-10-20,,5764,Manager,0,1
+5765,Quit,2022-07-04,Better Offer,5765,Quit,1,0
+5766,Quit,2023-07-02,Lack of Growth,5766,Quit,1,0
+5767,Quit,2021-10-30,Better Offer,5767,Quit,1,0
+5768,Quit,2022-11-30,Better Offer,5768,Quit,1,0
+5769,Dismissed,2021-06-27,Performance,5769,Dismissed,1,0
+5770,Manager,2025-03-21,,5770,Manager,0,1
+5771,Quit,2025-04-08,Lack of Growth,5771,Quit,1,0
+5772,Quit,2024-10-12,Lack of Growth,5772,Quit,1,0
+5773,Dismissed,2024-10-07,Performance,5773,Dismissed,1,0
+5774,Quit,2025-03-26,Insufficient Wages,5774,Quit,1,0
+5775,Server,2023-10-03,,5775,Server,0,1
+5775,Quit,2024-06-07,Poor Management,5775,Quit,1,0
+5776,Bartender,2024-04-26,,5776,Bartender,0,1
+5776,Quit,2025-08-17,Better Offer,5776,Quit,1,0
+5777,Dismissed,2023-10-24,Performance,5777,Dismissed,1,0
+5778,Quit,2025-11-28,Burntout,5778,Quit,1,0
+5779,Quit,2023-11-16,Burntout,5779,Quit,1,0
+5780,Quit,2021-09-01,Insufficient Wages,5780,Quit,1,0
+5781,Dismissed,2023-08-24,Performance,5781,Dismissed,1,0
+5783,Quit,2024-07-30,Better Offer,5783,Quit,1,0
+5784,Dismissed,2024-01-31,Performance,5784,Dismissed,1,0
+5785,Manager,2024-07-11,,5785,Manager,0,1
+5786,Quit,2021-11-25,Relocation,5786,Quit,1,0
+5787,Quit,2025-03-16,Insufficient Wages,5787,Quit,1,0
+5788,Dismissed,2022-09-27,Performance,5788,Dismissed,1,0
+5789,Bartender,2021-03-20,,5789,Bartender,0,1
+5789,Quit,2022-03-23,Burntout,5789,Quit,1,0
+5790,Quit,2025-09-16,Burntout,5790,Quit,1,0
+5791,Quit,2022-07-21,Poor Management,5791,Quit,1,0
+5792,Quit,2023-07-07,Lack of Growth,5792,Quit,1,0
+5794,Bartender,2024-03-28,,5794,Bartender,0,1
+5794,Quit,2025-08-26,Better Offer,5794,Quit,1,0
+5795,Quit,2022-05-16,Burntout,5795,Quit,1,0
+5796,Quit,2021-10-15,Lack of Growth,5796,Quit,1,0
+5797,Bartender,2022-04-15,,5797,Bartender,0,1
+5797,Quit,2023-02-22,Poor Management,5797,Quit,1,0
+5798,Quit,2023-05-29,Lack of Growth,5798,Quit,1,0
+5799,Quit,2023-06-07,Better Offer,5799,Quit,1,0
+5800,Bartender,2024-03-23,,5800,Bartender,0,1
+5800,Quit,2025-04-08,Lack of Growth,5800,Quit,1,0
+5801,Quit,2021-10-04,Relocation,5801,Quit,1,0
+5802,Quit,2024-01-03,Poor Management,5802,Quit,1,0
+5803,Quit,2025-09-30,Better Offer,5803,Quit,1,0
+5804,Quit,2023-03-25,Better Offer,5804,Quit,1,0
+5805,Quit,2023-11-07,Poor Management,5805,Quit,1,0
+5806,Quit,2022-05-04,Poor Management,5806,Quit,1,0
+5807,Quit,2024-07-27,Insufficient Wages,5807,Quit,1,0
+5808,Quit,2024-05-01,Better Offer,5808,Quit,1,0
+5809,Quit,2023-08-21,Insufficient Wages,5809,Quit,1,0
+5810,Quit,2025-08-22,Burntout,5810,Quit,1,0
+5811,Quit,2025-08-27,Better Offer,5811,Quit,1,0
+5812,Quit,2022-12-13,Lack of Growth,5812,Quit,1,0
+5813,Quit,2022-09-30,Lack of Growth,5813,Quit,1,0
+5814,Quit,2025-11-08,Better Offer,5814,Quit,1,0
+5815,Quit,2021-02-21,Poor Management,5815,Quit,1,0
+5816,Quit,2023-03-25,Better Offer,5816,Quit,1,0
+5817,Quit,2021-09-27,Poor Management,5817,Quit,1,0
+5818,Server,2025-01-27,,5818,Server,0,1
+5818,Quit,2025-08-30,Burntout,5818,Quit,1,0
+5819,Quit,2023-06-07,Better Offer,5819,Quit,1,0
+5820,Quit,2023-02-27,Burntout,5820,Quit,1,0
+5821,Quit,2023-02-27,Lack of Growth,5821,Quit,1,0
+5822,Bartender,2022-08-15,,5822,Bartender,0,1
+5822,Shift Lead,2023-02-24,,5822,Shift Lead,0,1
+5822,Quit,2024-06-17,Better Offer,5822,Quit,1,0
+5823,Quit,2023-09-15,Poor Management,5823,Quit,1,0
+5824,Dismissed,2024-10-30,Performance,5824,Dismissed,1,0
+5825,Quit,2025-03-10,Lack of Growth,5825,Quit,1,0
+5826,Quit,2021-04-30,Better Offer,5826,Quit,1,0
+5827,Quit,2023-03-19,Better Offer,5827,Quit,1,0
+5828,Server Assistant,2024-07-22,,5828,Server Assistant,0,1
+5828,Bartender,2025-02-18,,5828,Bartender,0,1
+5828,Quit,2025-10-14,Lack of Growth,5828,Quit,1,0
+5829,Quit,2021-04-16,Lack of Growth,5829,Quit,1,0
+5830,Quit,2023-10-29,Better Offer,5830,Quit,1,0
+5831,Shift Lead,2024-02-12,,5831,Shift Lead,0,1
+5831,Quit,2025-07-15,Better Offer,5831,Quit,1,0
+5832,Quit,2024-11-16,Lack of Growth,5832,Quit,1,0
+5833,Bartender,2023-09-17,,5833,Bartender,0,1
+5833,Quit,2025-03-03,Better Offer,5833,Quit,1,0
+5834,Quit,2025-04-02,Poor Management,5834,Quit,1,0
+5835,Dismissed,2023-09-26,Attendance,5835,Dismissed,1,0
+5836,Bartender,2022-04-22,,5836,Bartender,0,1
+5836,Quit,2023-03-19,Lack of Growth,5836,Quit,1,0
+5837,Quit,2023-07-29,Poor Management,5837,Quit,1,0
+5838,Quit,2025-02-22,Better Offer,5838,Quit,1,0
+5839,Quit,2024-08-11,Lack of Growth,5839,Quit,1,0
+5840,Quit,2024-12-14,Burntout,5840,Quit,1,0
+5841,Server,2024-03-20,,5841,Server,0,1
+5841,Quit,2024-11-11,Burntout,5841,Quit,1,0
+5842,Bartender,2023-03-28,,5842,Bartender,0,1
+5842,Quit,2024-05-28,Better Offer,5842,Quit,1,0
+5843,Server,2025-01-10,,5843,Server,0,1
+5843,Quit,2025-09-07,Better Offer,5843,Quit,1,0
+5844,Quit,2025-12-31,Better Offer,5844,Quit,1,0
+5845,Quit,2023-08-27,Burntout,5845,Quit,1,0
+5847,Bartender,2021-10-22,,5847,Bartender,0,1
+5847,Quit,2022-08-09,Better Offer,5847,Quit,1,0
+5848,Quit,2025-01-24,Better Offer,5848,Quit,1,0
+5849,Bartender,2024-02-19,,5849,Bartender,0,1
+5849,Dismissed,2025-02-26,Performance,5849,Dismissed,1,0
+5850,Quit,2023-11-19,Insufficient Wages,5850,Quit,1,0
+5851,Manager,2025-06-14,,5851,Manager,0,1
+5852,Dismissed,2025-10-30,Policy Violation,5852,Dismissed,1,0
+5853,Bartender,2024-07-09,,5853,Bartender,0,1
+5853,Manager,2025-05-16,,5853,Manager,0,1
+5855,Dismissed,2021-10-14,Performance,5855,Dismissed,1,0
+5856,Quit,2022-08-22,Better Offer,5856,Quit,1,0
+5857,Dismissed,2025-03-23,Policy Violation,5857,Dismissed,1,0
+5859,Dismissed,2024-06-17,Performance,5859,Dismissed,1,0
+5860,Quit,2022-04-08,Better Offer,5860,Quit,1,0
+5861,Quit,2025-10-07,Better Offer,5861,Quit,1,0
+5862,Quit,2024-04-10,Poor Management,5862,Quit,1,0
+5863,Quit,2021-07-31,Insufficient Wages,5863,Quit,1,0
+5864,Quit,2022-04-18,Insufficient Wages,5864,Quit,1,0
+5865,Quit,2021-10-19,Better Offer,5865,Quit,1,0
+5866,Quit,2021-11-22,Burntout,5866,Quit,1,0
+5867,Quit,2025-11-02,Poor Management,5867,Quit,1,0
+5868,Server,2021-11-20,,5868,Server,0,1
+5868,Bartender,2022-06-22,,5868,Bartender,0,1
+5868,Shift Lead,2022-12-30,,5868,Shift Lead,0,1
+5868,Dismissed,2023-09-04,Attendance,5868,Dismissed,1,0
+5869,Dismissed,2024-03-14,Policy Violation,5869,Dismissed,1,0
+5870,Quit,2023-08-03,Better Offer,5870,Quit,1,0
+5871,Quit,2022-02-19,Better Offer,5871,Quit,1,0
+5872,Quit,2024-03-13,Better Offer,5872,Quit,1,0
+5873,Quit,2022-07-16,Poor Management,5873,Quit,1,0
+5874,Quit,2021-01-29,Burntout,5874,Quit,1,0
+5876,Dismissed,2025-12-02,Attendance,5876,Dismissed,1,0
+5877,Quit,2022-10-15,Lack of Growth,5877,Quit,1,0
+5878,Quit,2021-09-26,Lack of Growth,5878,Quit,1,0
+5879,Dismissed,2025-11-28,Performance,5879,Dismissed,1,0
+5880,Quit,2025-10-05,Better Offer,5880,Quit,1,0
+5881,Bartender,2025-02-23,,5881,Bartender,0,1
+5881,Quit,2025-09-18,Better Offer,5881,Quit,1,0
+5882,Bartender,2024-07-28,,5882,Bartender,0,1
+5882,Quit,2025-02-04,Better Offer,5882,Quit,1,0
+5883,Dismissed,2022-06-18,Attendance,5883,Dismissed,1,0
+5884,Bartender,2021-09-06,,5884,Bartender,0,1
+5884,Quit,2022-03-25,Lack of Growth,5884,Quit,1,0
+5886,Quit,2025-01-28,Lack of Growth,5886,Quit,1,0
+5888,Quit,2025-06-17,Lack of Growth,5888,Quit,1,0
+5889,Quit,2025-06-24,Lack of Growth,5889,Quit,1,0
+5890,Quit,2025-10-04,Better Offer,5890,Quit,1,0
+5891,Quit,2023-01-17,Insufficient Wages,5891,Quit,1,0
+5892,Quit,2023-06-29,Lack of Growth,5892,Quit,1,0
+5893,Quit,2025-07-29,Burntout,5893,Quit,1,0
+5894,Quit,2023-05-15,Better Offer,5894,Quit,1,0
+5895,Dismissed,2025-09-21,Performance,5895,Dismissed,1,0
+5896,Quit,2022-10-23,Insufficient Wages,5896,Quit,1,0
+5897,Quit,2021-11-20,Burntout,5897,Quit,1,0
+5898,Quit,2025-02-22,Lack of Growth,5898,Quit,1,0
+5899,Quit,2024-10-06,Poor Management,5899,Quit,1,0
+5901,Quit,2025-01-27,Better Offer,5901,Quit,1,0
+5902,Server,2023-01-20,,5902,Server,0,1
+5902,Quit,2023-09-15,Poor Management,5902,Quit,1,0
+5903,Quit,2022-12-26,Lack of Growth,5903,Quit,1,0
+5904,Quit,2022-08-25,Insufficient Wages,5904,Quit,1,0
+5905,Manager,2025-03-02,,5905,Manager,0,1
+5906,Quit,2024-02-15,Insufficient Wages,5906,Quit,1,0
+5907,Quit,2025-01-25,Poor Management,5907,Quit,1,0
+5908,Quit,2022-03-29,Lack of Growth,5908,Quit,1,0
+5909,Dismissed,2025-10-31,Performance,5909,Dismissed,1,0
+5910,Dismissed,2023-03-11,Performance,5910,Dismissed,1,0
+5911,Server,2024-06-19,,5911,Server,0,1
+5911,Quit,2025-03-05,Better Offer,5911,Quit,1,0
+5912,Quit,2022-10-27,Lack of Growth,5912,Quit,1,0
+5913,Quit,2022-04-30,Poor Management,5913,Quit,1,0
+5914,Server,2025-03-22,,5914,Server,0,1
+5914,Quit,2025-09-25,Lack of Growth,5914,Quit,1,0
+5915,Quit,2024-07-05,Better Offer,5915,Quit,1,0
+5916,Quit,2022-10-24,Lack of Growth,5916,Quit,1,0
+5917,Quit,2023-06-19,Poor Management,5917,Quit,1,0
+5918,Quit,2024-11-28,Better Offer,5918,Quit,1,0
+5919,Quit,2022-09-18,Lack of Growth,5919,Quit,1,0
+5920,Quit,2022-09-25,Burntout,5920,Quit,1,0
+5921,Quit,2025-05-09,Lack of Growth,5921,Quit,1,0
+5922,Quit,2021-12-05,Lack of Growth,5922,Quit,1,0
+5924,Quit,2024-12-30,Better Offer,5924,Quit,1,0
+5925,Quit,2022-06-16,Better Offer,5925,Quit,1,0
+5926,Quit,2025-09-01,Insufficient Wages,5926,Quit,1,0
+5927,Quit,2022-03-09,Better Offer,5927,Quit,1,0
+5928,Bartender,2022-03-12,,5928,Bartender,0,1
+5928,Quit,2023-03-13,Lack of Growth,5928,Quit,1,0
+5930,Bartender,2022-12-24,,5930,Bartender,0,1
+5930,Shift Lead,2024-04-13,,5930,Shift Lead,0,1
+5930,Quit,2025-09-11,Lack of Growth,5930,Quit,1,0
+5931,Quit,2021-01-27,Insufficient Wages,5931,Quit,1,0
+5932,Bartender,2023-06-26,,5932,Bartender,0,1
+5932,Quit,2024-06-10,Poor Management,5932,Quit,1,0
+5933,Quit,2025-08-26,Poor Management,5933,Quit,1,0
+5934,Quit,2022-04-04,Better Offer,5934,Quit,1,0
+5935,Quit,2024-11-04,Insufficient Wages,5935,Quit,1,0
+5936,Dismissed,2025-09-28,Policy Violation,5936,Dismissed,1,0
+5937,Quit,2025-12-24,Insufficient Wages,5937,Quit,1,0
+5938,Quit,2022-03-14,Lack of Growth,5938,Quit,1,0
+5939,Quit,2022-10-08,Burntout,5939,Quit,1,0
+5940,Quit,2021-12-23,Burntout,5940,Quit,1,0
+5941,Quit,2024-02-23,Burntout,5941,Quit,1,0
+5942,Quit,2025-09-20,Insufficient Wages,5942,Quit,1,0
+5943,Quit,2021-01-24,Poor Management,5943,Quit,1,0
+5944,Quit,2025-04-03,Insufficient Wages,5944,Quit,1,0
+5945,Quit,2025-11-01,Better Offer,5945,Quit,1,0
+5946,Server,2022-05-30,,5946,Server,0,1
+5946,Shift Lead,2023-06-02,,5946,Shift Lead,0,1
+5946,Quit,2024-01-10,Lack of Growth,5946,Quit,1,0
+5947,Quit,2023-01-16,Poor Management,5947,Quit,1,0
+5948,Quit,2022-08-07,Relocation,5948,Quit,1,0
+5949,Bartender,2023-04-15,,5949,Bartender,0,1
+5949,Quit,2024-02-19,Better Offer,5949,Quit,1,0
+5950,Quit,2024-05-05,Burntout,5950,Quit,1,0
+5951,Quit,2023-07-16,Relocation,5951,Quit,1,0
+5952,Server,2023-04-21,,5952,Server,0,1
+5952,Quit,2023-12-13,Burntout,5952,Quit,1,0
+5953,Quit,2025-10-21,Lack of Growth,5953,Quit,1,0
+5954,Quit,2025-11-09,Better Offer,5954,Quit,1,0
+5955,Bartender,2024-06-25,,5955,Bartender,0,1
+5955,Quit,2025-09-21,Insufficient Wages,5955,Quit,1,0
+5956,Quit,2024-12-08,Burntout,5956,Quit,1,0
+5957,Quit,2022-11-06,Insufficient Wages,5957,Quit,1,0
+5958,Quit,2022-08-29,Relocation,5958,Quit,1,0
+5959,Quit,2025-05-03,Insufficient Wages,5959,Quit,1,0
+5960,Dismissed,2022-07-09,Attendance,5960,Dismissed,1,0
+5961,Quit,2022-01-02,Lack of Growth,5961,Quit,1,0
+5962,Quit,2024-03-24,Burntout,5962,Quit,1,0
+5963,Quit,2022-08-20,Insufficient Wages,5963,Quit,1,0
+5964,Quit,2024-02-03,Insufficient Wages,5964,Quit,1,0
+5965,Quit,2023-01-18,Poor Management,5965,Quit,1,0
+5966,Server,2023-05-03,,5966,Server,0,1
+5966,Quit,2023-12-04,Lack of Growth,5966,Quit,1,0
+5967,Bartender,2023-12-04,,5967,Bartender,0,1
+5967,Shift Lead,2024-07-16,,5967,Shift Lead,0,1
+5967,Quit,2025-07-09,Poor Management,5967,Quit,1,0
+5968,Quit,2024-06-22,Relocation,5968,Quit,1,0
+5969,Quit,2024-07-16,Better Offer,5969,Quit,1,0
+5970,Quit,2024-05-06,Burntout,5970,Quit,1,0
+5971,Dismissed,2025-11-21,Performance,5971,Dismissed,1,0
+5972,Quit,2023-06-19,Better Offer,5972,Quit,1,0
+5974,Quit,2022-12-25,Insufficient Wages,5974,Quit,1,0
+5975,Quit,2023-05-20,Better Offer,5975,Quit,1,0
+5976,Shift Lead,2021-12-08,,5976,Shift Lead,0,1
+5976,Quit,2023-02-19,Better Offer,5976,Quit,1,0
+5977,Quit,2023-08-31,Insufficient Wages,5977,Quit,1,0
+5978,Quit,2025-10-07,Insufficient Wages,5978,Quit,1,0
+5979,Bartender,2024-07-21,,5979,Bartender,0,1
+5979,Quit,2025-08-11,Insufficient Wages,5979,Quit,1,0
+5982,Quit,2022-07-10,Poor Management,5982,Quit,1,0
+5983,Bartender,2021-07-01,,5983,Bartender,0,1
+5983,Quit,2022-03-17,Burntout,5983,Quit,1,0
+5984,Server,2022-10-22,,5984,Server,0,1
+5984,Bartender,2023-06-23,,5984,Bartender,0,1
+5984,Dismissed,2024-01-18,Attendance,5984,Dismissed,1,0
+5985,Bartender,2024-06-15,,5985,Bartender,0,1
+5985,Quit,2025-04-29,Better Offer,5985,Quit,1,0
+5986,Bartender,2021-11-08,,5986,Bartender,0,1
+5986,Quit,2022-09-01,Better Offer,5986,Quit,1,0
+5987,Quit,2021-04-27,Burntout,5987,Quit,1,0
+5988,Bartender,2024-04-18,,5988,Bartender,0,1
+5988,Quit,2025-07-09,Poor Management,5988,Quit,1,0
+5989,Quit,2025-09-13,Better Offer,5989,Quit,1,0
+5990,Quit,2023-01-31,Burntout,5990,Quit,1,0
+5991,Shift Lead,2022-10-08,,5991,Shift Lead,0,1
+5991,Quit,2023-09-30,Poor Management,5991,Quit,1,0
+5992,Dismissed,2021-11-09,Performance,5992,Dismissed,1,0
+5993,Quit,2024-05-12,Relocation,5993,Quit,1,0
+5994,Quit,2024-09-27,Relocation,5994,Quit,1,0
+5996,Quit,2024-11-20,Lack of Growth,5996,Quit,1,0
+5997,Manager,2025-01-24,,5997,Manager,0,1
+5999,Dismissed,2025-10-29,Performance,5999,Dismissed,1,0
+6000,Quit,2022-03-12,Lack of Growth,6000,Quit,1,0
+6001,Dismissed,2023-02-26,Policy Violation,6001,Dismissed,1,0
+6002,Quit,2025-07-13,Burntout,6002,Quit,1,0
+6003,Quit,2022-04-04,Burntout,6003,Quit,1,0
+6004,Quit,2023-04-13,Insufficient Wages,6004,Quit,1,0
+6005,Server,2021-03-14,,6005,Server,0,1
+6005,Quit,2021-09-30,Lack of Growth,6005,Quit,1,0
+6006,Dismissed,2024-04-20,Performance,6006,Dismissed,1,0
+6007,Quit,2021-08-24,Better Offer,6007,Quit,1,0
+6008,Dismissed,2023-09-08,Performance,6008,Dismissed,1,0
+6009,Dismissed,2022-01-14,Performance,6009,Dismissed,1,0
+6010,Quit,2025-03-31,Poor Management,6010,Quit,1,0
+6011,Quit,2021-10-14,Lack of Growth,6011,Quit,1,0
+6012,Server,2024-10-23,,6012,Server,0,1
+6012,Quit,2025-04-26,Insufficient Wages,6012,Quit,1,0
+6013,Quit,2023-08-28,Burntout,6013,Quit,1,0
+6014,Dismissed,2021-02-03,Performance,6014,Dismissed,1,0
+6015,Quit,2024-02-26,Poor Management,6015,Quit,1,0
+6016,Quit,2023-04-25,Better Offer,6016,Quit,1,0
+6017,Quit,2021-03-13,Lack of Growth,6017,Quit,1,0
+6018,Dismissed,2025-02-21,Policy Violation,6018,Dismissed,1,0
+6019,Shift Lead,2023-12-17,,6019,Shift Lead,0,1
+6019,Manager,2024-10-27,,6019,Manager,0,1
+6020,Quit,2025-07-27,Better Offer,6020,Quit,1,0
+6021,Quit,2023-10-26,Better Offer,6021,Quit,1,0
+6022,Quit,2024-04-11,Burntout,6022,Quit,1,0
+6023,Quit,2022-03-01,Better Offer,6023,Quit,1,0
+6024,Quit,2025-02-07,Lack of Growth,6024,Quit,1,0
+6025,Quit,2025-01-14,Lack of Growth,6025,Quit,1,0
+6026,Bartender,2022-12-13,,6026,Bartender,0,1
+6026,Quit,2023-11-24,Insufficient Wages,6026,Quit,1,0
+6027,Quit,2024-07-31,Lack of Growth,6027,Quit,1,0
+6028,Quit,2021-04-15,Lack of Growth,6028,Quit,1,0
+6031,Quit,2021-05-26,Lack of Growth,6031,Quit,1,0
+6032,Quit,2025-08-13,Lack of Growth,6032,Quit,1,0
+6033,Quit,2023-04-27,Better Offer,6033,Quit,1,0
+6034,Quit,2023-03-14,Burntout,6034,Quit,1,0
+6035,Quit,2022-08-12,Better Offer,6035,Quit,1,0
+6036,Quit,2023-06-26,Lack of Growth,6036,Quit,1,0
+6037,Shift Lead,2023-10-18,,6037,Shift Lead,0,1
+6037,Quit,2025-02-01,Better Offer,6037,Quit,1,0
+6038,Dismissed,2025-10-27,Performance,6038,Dismissed,1,0
+6039,Quit,2024-01-31,Better Offer,6039,Quit,1,0
+6041,Quit,2024-06-25,Insufficient Wages,6041,Quit,1,0
+6042,Quit,2023-02-26,Insufficient Wages,6042,Quit,1,0
+6043,Quit,2022-09-06,Burntout,6043,Quit,1,0
+6044,Dismissed,2024-12-25,Performance,6044,Dismissed,1,0
+6045,Server Assistant,2023-07-16,,6045,Server Assistant,0,1
+6045,Bartender,2024-02-13,,6045,Bartender,0,1
+6045,Shift Lead,2025-02-22,,6045,Shift Lead,0,1
+6045,Quit,2025-10-24,Better Offer,6045,Quit,1,0
+6046,Quit,2023-11-21,Burntout,6046,Quit,1,0
+6047,Quit,2024-09-27,Lack of Growth,6047,Quit,1,0
+6048,Quit,2022-07-19,Insufficient Wages,6048,Quit,1,0
+6049,Quit,2025-02-28,Insufficient Wages,6049,Quit,1,0
+6050,Quit,2021-05-19,Better Offer,6050,Quit,1,0
+6051,Dismissed,2025-07-23,Performance,6051,Dismissed,1,0
+6052,Bartender,2024-08-16,,6052,Bartender,0,1
+6052,Quit,2025-07-25,Insufficient Wages,6052,Quit,1,0
+6053,Quit,2024-04-10,Relocation,6053,Quit,1,0
+6054,Quit,2022-01-23,Burntout,6054,Quit,1,0
+6055,Quit,2025-02-15,Insufficient Wages,6055,Quit,1,0
+6056,Manager,2025-05-20,,6056,Manager,0,1
+6057,Server,2022-07-31,,6057,Server,0,1
+6057,Bartender,2023-06-29,,6057,Bartender,0,1
+6057,Quit,2024-02-16,Insufficient Wages,6057,Quit,1,0
+6058,Bartender,2024-02-25,,6058,Bartender,0,1
+6058,Quit,2025-02-18,Lack of Growth,6058,Quit,1,0
+6059,Quit,2025-10-25,Lack of Growth,6059,Quit,1,0
+6060,Bartender,2024-06-09,,6060,Bartender,0,1
+6060,Quit,2025-11-26,Lack of Growth,6060,Quit,1,0
+6061,Quit,2023-05-15,Better Offer,6061,Quit,1,0
+6062,Bartender,2021-03-17,,6062,Bartender,0,1
+6062,Shift Lead,2022-05-10,,6062,Shift Lead,0,1
+6062,Quit,2023-02-15,Better Offer,6062,Quit,1,0
+6064,Quit,2025-08-30,Lack of Growth,6064,Quit,1,0
+6065,Quit,2022-08-29,Burntout,6065,Quit,1,0
+6066,Quit,2021-09-09,Burntout,6066,Quit,1,0
