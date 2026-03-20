@@ -4,11 +4,11 @@ import warnings
 warnings.filterwarnings('ignore')
 
 DATA = {
-    'employee'  : 'BOLT_Employees.csv',
-    'applicant' : 'BOLT_Applicants.csv',
-    'branch'    : 'BOLT_Branch.csv',
-    'perf'      : 'BOLT_Performance.csv',
-    'changes'   : 'BOLT_EmployeeChanges.csv',
+    'employee'  : 'data/BOLT_Employees.csv',
+    'applicant' : 'data/BOLT_Applicants.csv',
+    'branch'    : 'data/BOLT_Branch.csv',
+    'perf'      : 'data/BOLT_Performance.csv',
+    'changes'   : 'data/BOLT_EmployeeChanges.csv',
 }
 
 REFERENCE_DATE = pd.Timestamp('2026-03-14')
